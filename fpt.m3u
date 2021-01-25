@@ -183,7 +183,7 @@ http://mediatech.vncdn.vn/hytvlive/tv1live.m3u8
 http://687642383.r.vietnamcdn.net/687642383/_definst_/mystream/playlist.m3u8
 #EXTINF:-1 aspect-ratio="16:9" tvg-name="TH NINH BINH" group-title="Địa phương (HD)",NTV HD _ TH Ninh Bình (HD 8Mbps)
 udp://@225.1.2.185:30120
-#EXTINF:-1 aspect-ratio="16:9" group-title="Địa phương (HD)",TBTV _ TH Thái Bình
+#EXTINF:-1 aspect-ratio="16:9" group-title="Địa phương (HD)",TBTV HD _ TH Thái Bình
 http://mediatech.vncdn.vn/tbtvlive/tv1live.m3u8
 #EXTINF:-1 aspect-ratio="16:9" tvg-name="TH NGHE AN" group-title="Địa phương (HD)",NTV HD _ TH Nghệ An (HD 8Mbps)
 udp://@225.1.2.183:30120
