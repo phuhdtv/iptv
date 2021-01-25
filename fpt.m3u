@@ -71,6 +71,8 @@ udp://@225.1.2.193:30120
 udp://@225.1.2.51:30120
 #EXTINF:-1 aspect-ratio="16:9" tvg-name="VOVTV" group-title="VTC",VOV TV
 udp://@225.1.2.171:30120
+#EXTINF:-1 aspect-ratio="16:9" tvg-name="VOVTV" group-title="VTC",VOV TV HD
+http://mediatech.vncdn.vn/vovlive/tv1live.m3u8
 #-------------------HTV/HTVC-------------------#
 #EXTINF:-1 aspect-ratio="16:9" tvg-name="HTV2-ClipTV" group-title="HTV/HTVC",HTV2 Vie Channel (HD 8Mbps)
 udp://@225.1.1.193:30120
@@ -94,21 +96,30 @@ udp://@225.1.1.178:30120
 udp://@225.1.1.177:30120
 #EXTINF:-1 aspect-ratio="16:9" tvg-name="HTV THE THAO" group-title="HTV/HTVC",HTV THỂ THAO
 udp://@225.1.1.165:30120
+#EXTINF:-1 aspect-ratio="16:9" tvg-name="HTV THE THAO" group-title="HTV/HTVC",HTV THỂ THAO HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV-THETHAO-HD-1080p/playlist.m3u8
 #EXTINF:-1 aspect-ratio="16:9" group-title="HTV/HTVC",HTVC Ca Nhạc
 udp://@225.1.1.185:30120
+#EXTINF:-1 aspect-ratio="16:9" group-title="HTV/HTVC",HTVC Ca Nhạc HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-CANHAC-HD-1080p/playlist.m3u8
 #EXTINF:-1 aspect-ratio="16:9" tvg-name="HTVC DU LICH CUOC SONG" group-title="HTV/HTVC",HTVC Du Lịch và Cuộc Sống
 udp://@225.1.1.166:30120
+#EXTINF:-1 aspect-ratio="16:9" tvg-name="HTVC DU LICH CUOC SONG" group-title="HTV/HTVC",HTVC Du Lịch và Cuộc Sống HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-DULICH-HD-1080p/playlist.m3u8
 #EXTINF:-1 aspect-ratio="16:9" tvg-name="HTVC GIA DINH" group-title="HTV/HTVC",HTVC Gia Đình
 udp://@225.1.1.170:30120
+#EXTINF:-1 aspect-ratio="16:9" tvg-name="HTVC GIA DINH" group-title="HTV/HTVC",HTVC Gia Đình HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-GIADINH-HD-1080p/chunks.m3u8
 #EXTINF:-1 aspect-ratio="16:9" tvg-name="HTVC PHU NU HD" group-title="HTV/HTVC",HTVC Phụ Nữ
 udp://@225.1.1.171:30120
+#EXTINF:-1 aspect-ratio="16:9" tvg-name="HTVC PHU NU HD" group-title="HTV/HTVC",HTVC Phụ Nữ HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHUNU-HD-1080p/playlist.m3u8
 #EXTINF:-1 aspect-ratio="16:9" tvg-name="HTVC Thuần Việt" group-title="HTV/HTVC",HTVC Thuần Việt
 udp://@225.1.1.174:30120
 #EXTINF:-1 aspect-ratio="16:9" group-title="HTV/HTVC",HTVC+
 udp://@225.1.1.181:30120
-#-------------------SCTV-------------------#
-#EXTINF:-1 aspect-ratio="16:9" group-title="SCTV",SCTV2
-udp://@225.1.1.234:30120
+#EXTINF:-1 aspect-ratio="16:9" group-title="HTV/HTVC",HTVC+ HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8
 #-------------------Thiết yếu-------------------#
 #EXTINF:-1 aspect-ratio="16:9" tvg-name="ANTV" group-title="Kênh TH Thiết yếu",ANTV HD (HD 8Mbps)
 udp://@225.1.2.169:30120
@@ -125,10 +136,16 @@ udp://@225.1.4.148:30120
 #EXTINF:-1 aspect-ratio="16:9" tvg-name="QUOC PHONG VIET NAM HD" group-title="Kênh TH Thiết yếu",QPVN (HD 4Mbps)
 udp://@225.1.4.217:30120
 #-------------------Other-------------------#
+#EXTINF:-1 aspect-ratio="16:9" group-title="Other",FA CUP
+udp://@225.1.1.95:30120
 #EXTINF:-1 aspect-ratio="16:9" group-title="Other",HanoiCab2 YouTV
 udp://@225.1.1.207:30120
 #EXTINF:-1 aspect-ratio="16:9" tvg-name="MTV" group-title="Other",MTV
 udp://@225.1.1.245:30120
+#EXTINF:-1 aspect-ratio="16:9" group-title="Other",SCTV2
+udp://@225.1.1.234:30120
+#EXTINF:-1 aspect-ratio="16:9" group-title="Other",SCTV8 VITV
+http://210.86.230.202:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
 #-------------------Địa phương HD-------------------#
 #EXTINF:-1 aspect-ratio="16:9" tvg-name="TH LAO CAI" group-title="Địa phương (HD)",THLC _ TH Lào Cai (HD 8Mbps)
 udp://@225.1.1.119:30120
@@ -150,6 +167,8 @@ udp://@225.1.1.160:30120
 udp://@225.1.1.102:30120
 #EXTINF:-1 aspect-ratio="16:9" tvg-name="TH QUANG NINH 1" group-title="Địa phương (HD)",QTV1 HD _ TH Quảng Ninh (HD 8Mbps)
 udp://@225.1.2.181:30120
+#EXTINF:-1 aspect-ratio="16:9" tvg-name="TH QUANG NINH 3" group-title="Địa phương (HD)",QTV3 HD _ TH Quảng Ninh (HD 8Mbps)
+http://mediatech.vncdn.vn/qtvlive/tv3live.m3u8
 #EXTINF:-1 aspect-ratio="16:9" tvg-name="TH BAC NINH" group-title="Địa phương (HD)",BTV _ TH Bắc Ninh (HD 8Mbps)
 udp://@225.1.1.40:30120
 #EXTINF:-1 aspect-ratio="16:9" tvg-name="HANOITV 1" group-title="Địa phương (HD)",H1 HD _ TH Hà Nội (HD 8Mbps)
@@ -158,8 +177,14 @@ udp://@225.1.2.186:30120
 udp://@225.1.1.125:30120
 #EXTINF:-1 aspect-ratio="16:9" tvg-name="TH HAI PHONG" group-title="Địa phương (HD)",THP HD _ TH TP. Hải Phòng (HD 8Mbps)
 udp://@225.1.1.44:30120
+#EXTINF:-1 aspect-ratio="16:9" tvg-name="TH HUNG YEN" group-title="Địa phương (HD)",HY HD _ TH Hưng Yên
+http://mediatech.vncdn.vn/hytvlive/tv1live.m3u8
+#EXTINF:-1 aspect-ratio="16:9" tvg-name="TH THANH HOA" group-title="Địa phương (HD)",TTV HD _ TH Thanh Hóa
+http://687642383.r.vietnamcdn.net/687642383/_definst_/mystream/playlist.m3u8
 #EXTINF:-1 aspect-ratio="16:9" tvg-name="TH NINH BINH" group-title="Địa phương (HD)",NTV HD _ TH Ninh Bình (HD 8Mbps)
 udp://@225.1.2.185:30120
+#EXTINF:-1 aspect-ratio="16:9" group-title="Địa phương (HD)",TBTV _ TH Thái Bình
+http://mediatech.vncdn.vn/tbtvlive/tv1live.m3u8
 #EXTINF:-1 aspect-ratio="16:9" tvg-name="TH NGHE AN" group-title="Địa phương (HD)",NTV HD _ TH Nghệ An (HD 8Mbps)
 udp://@225.1.2.183:30120
 #EXTINF:-1 aspect-ratio="16:9" tvg-name="TH HA TINH" group-title="Địa phương (HD)",HTTV HD _ TH Hà Tĩnh (HD 8Mbps)
@@ -218,6 +243,8 @@ udp://@225.1.2.25:30120
 udp://@225.1.2.172:30120
 #EXTINF:-1 aspect-ratio="16:9" tvg-name="TH HAU GIANG" group-title="Địa phương (HD)",HGTV _ TH Hậu Giang (HD 8Mbps)
 udp://@225.1.1.157:30120
+#EXTINF:-1 aspect-ratio="16:9" group-title="Địa phương (HD)",KG1 _ TH Kiên Giang (HD)
+http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
 #EXTINF:-1 aspect-ratio="16:9" tvg-name="TH KIEN GIANG 1" group-title="Địa phương (HD)",KG1 _ TH Kiên Giang (HD 8Mbps)
 udp://@225.1.2.182:30120
 #EXTINF:-1 aspect-ratio="16:9" tvg-name="TH BAC LIEU" group-title="Địa phương (HD)",BLTV HD _ TH Bạc Liêu (HD 8Mbps)
@@ -282,6 +309,8 @@ udp://@225.1.1.159:30120
 #EXTINF:-1 aspect-ratio="16:9" tvg-name="TH CAN THO" group-title="Địa phương (SD)",THTPCT _ TH TP. Cần Thơ
 udp://@225.1.1.132:30120
 #-------------------Quốc tế HD-------------------#
+#EXTINF:-1 aspect-ratio="16:9" tvg-name="Arirang" group-title="Quốc Tế (HD)",Arirang HD
+http://36.37.252.114:888/Apple/OneTV-039/playlist.m3u8
 #EXTINF:-1 aspect-ratio="16:9" tvg-name="Animal Planet-ClipTV" group-title="Quốc Tế (HD)",Animal Planet (HD 8Mbps)
 udp://@225.1.1.231:30120
 #EXTINF:-1 aspect-ratio="16:9" tvg-name="Asian Food Channel" group-title="Quốc Tế (HD)",Asian Food Network (HD 8Mbps)
@@ -300,6 +329,8 @@ udp://@225.1.1.204:30120
 udp://@225.1.2.231:30120
 #EXTINF:-1 aspect-ratio="16:9" tvg-name="Channel V HD-ClipTV" group-title="Quốc Tế (HD)",[V] HD (HD 8Mbps)
 udp://@225.1.1.188:30120
+#EXTINF:-1 aspect-ratio="16:9" tvg-name="Channel News Asia" group-title="Quốc Tế (SD)",CNA HD
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 aspect-ratio="16:9" tvg-name="CINEMA WORLD" group-title="Quốc Tế (HD)",Cinema World (HD 8Mbps)
 udp://@225.1.1.142:30120
 #EXTINF:-1 aspect-ratio="16:9" tvg-name="Max by HBO" group-title="Quốc Tế (HD)",CINEMAX (HD 8Mbps)
@@ -316,6 +347,8 @@ udp://@225.1.2.158:30120
 udp://@225.1.1.233:30120
 #EXTINF:-1 aspect-ratio="16:9" tvg-name="DW-ClipTV" group-title="Quốc Tế (HD)",DW (HD 8Mbps)
 udp://@225.1.1.46:30120
+#EXTINF:-1 aspect-ratio="16:9" tvg-name="DW-ClipTV" group-title="Quốc Tế (HD)",Euronews HD
+http://36.37.252.114:888/Apple/OneTV-047/playlist.m3u8
 #EXTINF:-1 aspect-ratio="16:9" tvg-name="Fashion TV HD" group-title="Quốc Tế (HD)",Fashion TV (HD 8Mbps)
 udp://@225.1.2.227:30120
 #EXTINF:-1 aspect-ratio="16:9" group-title="Quốc Tế (HD)",Fashion TV 4K
@@ -334,20 +367,38 @@ udp://@225.1.2.229:30120
 udp://@225.1.1.141:30120
 #EXTINF:-1 aspect-ratio="16:9" tvg-name="FOX SPORTS 3-ClipTV" group-title="Quốc Tế (HD)",FOX SPORTS 3 (HD 8Mbps)
 udp://@225.1.2.242:30120
+#EXTINF:-1 aspect-ratio="16:9" tvg-name="KBS World" group-title="Quốc Tế (HD)",KBS WORLD HD
+http://36.37.252.114:888/Apple/OneTV-040/playlist.m3u8
 #EXTINF:-1 aspect-ratio="16:9" tvg-name="HBO" group-title="Quốc Tế (HD)",HBO (HD 8Mbps)
 udp://@225.1.2.233:30120
 #EXTINF:-1 aspect-ratio="16:9" tvg-name="HBO" group-title="Quốc Tế (HD)",HBO (HD 12Mbps)
 udp://@225.1.4.90:30120
+#EXTINF:-1 aspect-ratio="16:9" group-title="Quốc Tế (HD)",IZ HD
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 aspect-ratio="16:9" tvg-name="KIX" group-title="Quốc Tế (HD)",KIX (HD 8Mbps)
 udp://@225.1.2.144:30120
 #EXTINF:-1 aspect-ratio="16:9" tvg-name="National Geographic HD-ClipTV" group-title="Quốc Tế (HD)",NATIONAL GEOGRAPHIC HD (HD 8Mbps)
 udp://@225.1.2.235:30120
 #EXTINF:-1 aspect-ratio="16:9" tvg-name="NHK World-Japan(HD)" group-title="Quốc Tế (HD)",NHK WORLD JAPAN (HD 8Mbps)
 udp://@225.1.1.47:30120
+#EXTINF:-1 aspect-ratio="16:9" group-title="Quốc Tế (HD)",MИP HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="Quốc Tế (HD)",MИP 24 HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 aspect-ratio="16:9" tvg-name="Outdoor Channel (HD)" group-title="Quốc Tế (HD)",Outdoor Channel (HD 8Mbps)
 udp://@225.1.2.215:30120
+#EXTINF:-1 aspect-ratio="16:9" tvg-name="Outdoor Channel (HD)" group-title="Quốc Tế (HD)",PARAMOUNT CHANNEL HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="Quốc Tế (HD)",Poссия 1 HD
+http://36.37.252.114:888/Apple/OneTV-027/playlist.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="Quốc Tế (HD)",Poссия 1 HD [720p]
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
 #EXTINF:-1 aspect-ratio="16:9" tvg-name="RED BY HBO" group-title="Quốc Tế (HD)",RED BY HBO (HD 8Mbps)
 udp://@225.1.1.93:30120
+#EXTINF:-1 aspect-ratio="16:9" group-title="Quốc Tế (HD)",RUTV HD
+http://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="Quốc Tế (HD)",Russia Today HD
+http://rt-news-gd.secure2.footprint.net/1103_2500Kb.m3u8
 #EXTINF:-1 aspect-ratio="16:9" tvg-name="Travel & Living (TLC)" group-title="Quốc Tế (HD)",TLC (HD 8Mbps)
 udp://@225.1.1.236:30120
 #EXTINF:-1 aspect-ratio="16:9" tvg-name="WARNER TV" group-title="Quốc Tế (HD)",WBTV (HD 8Mbps)
@@ -368,8 +419,8 @@ udp://@225.1.1.136:30120
 udp://@225.1.1.135:30120
 #EXTINF:-1 aspect-ratio="16:9" group-title="Quốc Tế (HD)",BBC CBEEBIES
 udp://@225.1.1.134:30120
-#EXTINF:-1 aspect-ratio="16:9" group-title="Quốc Tế (HD)",FA CUP
-udp://@225.1.1.95:30120
+#EXTINF:-1 aspect-ratio="16:9" group-title="Quốc Tế (HD)",Звeздa HD
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
 #-------------------Quốc tế SD-------------------#
 #EXTINF:-1 aspect-ratio="16:9" tvg-name="Arirang" group-title="Quốc Tế (SD)",Arirang
 udp://@225.1.1.201:30120
@@ -383,14 +434,46 @@ udp://@225.1.2.74:30120
 udp://@225.1.1.202:30120
 #EXTINF:-1 aspect-ratio="16:9" group-title="Quốc Tế (SD)",CNBC
 udp://@225.1.1.227:30120
+#EXTINF:-1 aspect-ratio="16:9" group-title="Quốc Tế (SD)",CПAC
+http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
 #EXTINF:-1 aspect-ratio="16:9" tvg-name="CNN-ClipTV" group-title="Quốc Tế (SD)",CNN
 udp://@225.1.1.242:30120
 #EXTINF:-1 aspect-ratio="16:9" tvg-name="France 24 English-ClipTV" group-title="Quốc Tế (SD)",FRANCE 24 (English)
 udp://@225.1.2.211:30120
 #EXTINF:-1 aspect-ratio="16:9" tvg-name="KBS World" group-title="Quốc Tế (SD)",KBS WORLD
 udp://@225.1.1.196:30120
+#EXTINF:-1 aspect-ratio="16:9" group-title="Quốc Tế (SD)",Hикa TB
+http://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="Quốc Tế (SD)",Hижний Hoвгopoд 24
+http://live-vestinn.cdnvideo.ru/vestinn/nn24/playlist.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="Quốc Tế (SD)",MOCKBA 24
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:m24.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="Quốc Tế (SD)",MPLAN
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="Quốc Tế (SD)",OPT1
+http://36.37.252.114:888/Apple/OneTV-041/playlist.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="Quốc Tế (SD)",PEH TB
+http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="Quốc Tế (SD)",PБK
+http://e3.online.video.rbc.ru/online2/rbctv_576p/index.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="Quốc Tế (SD)",Poссия 1 Hижний Hoвгopoд
+http://a3569458063-s26881.cdn.ngenix.net/vgtrkrtmp/smil:nnov.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="Quốc Tế (SD)",Poссия 24
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="Quốc Tế (SD)",Poссия 24 Hижний Hoвгopoд
+http://live-vestinn.cdnvideo.ru/vestinn/vestinn/playlist.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="Quốc Tế (SD)",Poссия K
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_k/playlist_3.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="Quốc Tế (SD)",Poссия PTP
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="Quốc Tế (SD)",SONG TV Russia
+http://songtvru.ru:8060/hd/playlist.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="Quốc Tế (SD)",TBЦ
+http://ad-hls-tvc.cdnvideo.ru/tvc-p222/smil:tvc.smil/chunklist_b1682100.m3u8
 #EXTINF:-1 aspect-ratio="16:9" tvg-name="TV5 Asie" group-title="Quốc Tế (SD)",TV5 MONDE ASIE
 udp://@225.1.1.200:30120
+#EXTINF:-1 aspect-ratio="16:9" group-title="Quốc Tế (SD)",Звeздa
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
 #-------------------FPT Play-------------------#
 #EXTINF:-1 aspect-ratio="16:9" tvg-name="VTV1-VTV" group-title="FPT Play",VTV1 HD
 udp://@225.1.4.1:30120
