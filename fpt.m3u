@@ -257,7 +257,7 @@ http://115.78.3.164:8135/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
 http://115.78.3.164:8135/hls-live/livepkgr/_definst_/liveevent/livestreamstv2.m3u8
 #EXTINF:-1 aspect-ratio="16:9" tvg-name="TH CAN THO" group-title="Địa phương (HD)",THTPCT HD _ TH TP. Cần Thơ
 https://tv.canthotv.vn/live/tv/tv.m3u8
-#EXTINF:-1 aspect-ratio="16:9" tvg-name="TH BAC LIEU" group-title="Địa phương (HD)",BLTV HD _ TH Bạc Liêu (HD 8Mbps)
+#EXTINF:-1 aspect-ratio="16:9" tvg-name="TH BAC LIEU" group-title="Địa phương (HD)",BLTV HD _ TH Bạc Liêu
 udp://@225.1.1.61:30120
 #EXTINF:-1 aspect-ratio="16:9" tvg-name="TH CA MAU" group-title="Địa phương (HD)",CTV _ TH Cà Mau (HD 8Mbps)
 udp://@225.1.1.104:30120
