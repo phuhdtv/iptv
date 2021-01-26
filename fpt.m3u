@@ -136,6 +136,8 @@ udp://@225.1.4.148:30120
 #EXTINF:-1 aspect-ratio="16:9" tvg-name="QUOC PHONG VIET NAM HD" group-title="Kênh TH Thiết yếu",QPVN (HD 4Mbps)
 udp://@225.1.4.217:30120
 #-------------------Other-------------------#
+#EXTINF:-1 aspect-ratio="16:9" group-title="Other",FPT TEST
+udp://@225.1.1.96:30120
 #EXTINF:-1 aspect-ratio="16:9" group-title="Other",HanoiCab2 YouTV
 udp://@225.1.1.207:30120
 #EXTINF:-1 aspect-ratio="16:9" tvg-name="MTV" group-title="Other",MTV
@@ -421,8 +423,6 @@ udp://@225.1.4.38:30120
 udp://@225.1.4.32:30120
 #EXTINF:-1 aspect-ratio="16:9" tvg-name="National Geographic HD-ClipTV" group-title="Quốc Tế (HD)",NATIONAL GEOGRAPHIC HD (HD 8Mbps)
 udp://@225.1.4.31:30120
-#EXTINF:-1 aspect-ratio="16:9" tvg-name="Boomerang-ClipTV" group-title="Quốc Tế (HD)",BOOMERANG HD
-udp://@225.1.1.138:30120
 #EXTINF:-1 aspect-ratio="16:9" group-title="Quốc Tế (HD)",DREAMWORKS HD
 udp://@225.1.1.136:30120
 #EXTINF:-1 aspect-ratio="16:9" group-title="Quốc Tế (HD)",ANIMAX
