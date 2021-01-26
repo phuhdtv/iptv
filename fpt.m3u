@@ -249,6 +249,12 @@ udp://@225.1.1.157:30120
 http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
 #EXTINF:-1 aspect-ratio="16:9" tvg-name="TH KIEN GIANG 1" group-title="Địa phương (HD)",KG1 _ TH Kiên Giang (HD 8Mbps)
 udp://@225.1.2.182:30120
+#EXTINF:-1 aspect-ratio="16:9" tvg-name="TH SOC TRANG" group-title="Địa phương (HD)",STV1 HD _ TH Sóc Trăng
+http://115.78.3.164:8135/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 aspect-ratio="16:9" group-title="Địa phương (HD)",STV2 HD _ TH Sóc Trăng
+http://115.78.3.164:8135/hls-live/livepkgr/_definst_/liveevent/livestreamstv2.m3u8
+#EXTINF:-1 aspect-ratio="16:9" tvg-name="TH CAN THO" group-title="Địa phương (HD)",THTPCT HD _ TH TP. Cần Thơ
+https://tv.canthotv.vn/live/tv/tv.m3u8
 #EXTINF:-1 aspect-ratio="16:9" tvg-name="TH BAC LIEU" group-title="Địa phương (HD)",BLTV HD _ TH Bạc Liêu (HD 8Mbps)
 udp://@225.1.1.61:30120
 #EXTINF:-1 aspect-ratio="16:9" tvg-name="TH CA MAU" group-title="Địa phương (HD)",CTV _ TH Cà Mau (HD 8Mbps)
@@ -308,6 +314,8 @@ udp://@225.1.2.173:30120
 udp://@225.1.1.156:30120
 #EXTINF:-1 aspect-ratio="16:9" tvg-name="TH SOC TRANG" group-title="Địa phương (SD)",STV1 _ TH Sóc Trăng
 udp://@225.1.1.159:30120
+#EXTINF:-1 aspect-ratio="16:9" tvg-name="TH BAC LIEU" group-title="Địa phương (SD)",BLTV _ TH Bạc Liêu (HD 8Mbps)
+http://118.69.205.213/thbl/thbl.m3u8
 #EXTINF:-1 aspect-ratio="16:9" tvg-name="TH CAN THO" group-title="Địa phương (SD)",THTPCT _ TH TP. Cần Thơ
 udp://@225.1.1.132:30120
 #-------------------Quốc tế HD-------------------#
