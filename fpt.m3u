@@ -257,7 +257,7 @@ http://115.78.3.164:8135/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
 http://115.78.3.164:8135/hls-live/livepkgr/_definst_/liveevent/livestreamstv2.m3u8
 #EXTINF:-1 aspect-ratio="16:9" tvg-name="TH CAN THO" group-title="Địa phương (HD)",THTPCT HD _ TH TP. Cần Thơ
 https://tv.canthotv.vn/live/tv/tv.m3u8
-#EXTINF:-1 aspect-ratio="16:9" tvg-name="TH BAC LIEU" group-title="Địa phương (HD)",BLTV HD _ TH Bạc Liêu
+#EXTINF:-1 aspect-ratio="16:9" tvg-name="TH BAC LIEU" group-title="Địa phương (HD)",BLTV HD _ TH Bạc Liêu (HD 8Mbps)
 udp://@225.1.1.61:30120
 #EXTINF:-1 aspect-ratio="16:9" tvg-name="TH CA MAU" group-title="Địa phương (HD)",CTV _ TH Cà Mau (HD 8Mbps)
 udp://@225.1.1.104:30120
@@ -316,11 +316,13 @@ udp://@225.1.2.173:30120
 udp://@225.1.1.156:30120
 #EXTINF:-1 aspect-ratio="16:9" tvg-name="TH SOC TRANG" group-title="Địa phương (SD)",STV1 _ TH Sóc Trăng
 udp://@225.1.1.159:30120
-#EXTINF:-1 aspect-ratio="16:9" tvg-name="TH BAC LIEU" group-title="Địa phương (SD)",BLTV _ TH Bạc Liêu (HD 8Mbps)
+#EXTINF:-1 aspect-ratio="16:9" tvg-name="TH BAC LIEU" group-title="Địa phương (SD)",BLTV _ TH Bạc Liêu
 http://118.69.205.213/thbl/thbl.m3u8
 #EXTINF:-1 aspect-ratio="16:9" tvg-name="TH CAN THO" group-title="Địa phương (SD)",THTPCT _ TH TP. Cần Thơ
 udp://@225.1.1.132:30120
 #-------------------Quốc tế HD-------------------#
+#EXTINF:-1 aspect-ratio="16:9" group-title="Quốc Tế (HD)",ANIMAX HD
+udp://@225.1.1.135:30120
 #EXTINF:-1 aspect-ratio="16:9" tvg-name="Arirang" group-title="Quốc Tế (HD)",Arirang HD
 http://36.37.252.114:888/Apple/OneTV-039/playlist.m3u8
 #EXTINF:-1 aspect-ratio="16:9" tvg-name="Animal Planet-ClipTV" group-title="Quốc Tế (HD)",Animal Planet (HD 8Mbps)
@@ -331,8 +333,12 @@ udp://@225.1.1.198:30120
 udp://@225.1.2.225:30120
 #EXTINF:-1 aspect-ratio="16:9" tvg-name="Baby TV HD-ClipTV" group-title="Quốc Tế (HD)",Baby TV (HD 8Mbps)
 udp://@225.1.2.146:30120
+#EXTINF:-1 aspect-ratio="16:9" group-title="Quốc Tế (HD)",BBC CBEEBIES HD
+udp://@225.1.1.134:30120
 #EXTINF:-1 aspect-ratio="16:9" tvg-name="BBC EARTH" group-title="Quốc Tế (HD)",BBC earth (HD 8Mbps)
 udp://@225.1.2.24:30120
+#EXTINF:-1 aspect-ratio="16:9" tvg-name="Boomerang-ClipTV" group-title="Quốc Tế (HD)",BOOMERANG HD
+udp://@225.1.1.138:30120
 #EXTINF:-1 aspect-ratio="16:9" tvg-name="Blue Ant Entertainment" group-title="Quốc Tế (HD)",BLUE ANT ENTERTAINMENT (HD 8Mbps)
 udp://@225.1.1.203:30120
 #EXTINF:-1 aspect-ratio="16:9" tvg-name="Blue Ant Extreme" group-title="Quốc Tế (HD)",BLUE ANT EXTREME (HD 8Mbps)
@@ -357,6 +363,8 @@ udp://@225.1.1.238:30120
 udp://@225.1.2.158:30120
 #EXTINF:-1 aspect-ratio="16:9" tvg-name="Disney Junior" group-title="Quốc Tế (HD)",Disney Junior (HD 8Mbps)
 udp://@225.1.1.233:30120
+#EXTINF:-1 aspect-ratio="16:9" group-title="Quốc Tế (HD)",DREAMWORKS HD
+udp://@225.1.1.136:30120
 #EXTINF:-1 aspect-ratio="16:9" tvg-name="DW-ClipTV" group-title="Quốc Tế (HD)",DW (HD 8Mbps)
 udp://@225.1.1.46:30120
 #EXTINF:-1 aspect-ratio="16:9" group-title="Quốc Tế (HD)",Euronews HD
@@ -423,12 +431,6 @@ udp://@225.1.4.38:30120
 udp://@225.1.4.32:30120
 #EXTINF:-1 aspect-ratio="16:9" tvg-name="National Geographic HD-ClipTV" group-title="Quốc Tế (HD)",NATIONAL GEOGRAPHIC HD (HD 8Mbps)
 udp://@225.1.4.31:30120
-#EXTINF:-1 aspect-ratio="16:9" group-title="Quốc Tế (HD)",DREAMWORKS HD
-udp://@225.1.1.136:30120
-#EXTINF:-1 aspect-ratio="16:9" group-title="Quốc Tế (HD)",ANIMAX
-udp://@225.1.1.135:30120
-#EXTINF:-1 aspect-ratio="16:9" group-title="Quốc Tế (HD)",BBC CBEEBIES
-udp://@225.1.1.134:30120
 #EXTINF:-1 aspect-ratio="16:9" group-title="Quốc Tế (HD)",Звeздa HD
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
 #-------------------Quốc tế SD-------------------#
