@@ -329,7 +329,7 @@ udp://@225.1.1.204:30120
 udp://@225.1.2.231:30120
 #EXTINF:-1 aspect-ratio="16:9" tvg-name="Channel V HD-ClipTV" group-title="Quốc Tế (HD)",[V] HD (HD 8Mbps)
 udp://@225.1.1.188:30120
-#EXTINF:-1 aspect-ratio="16:9" tvg-name="Channel News Asia" group-title="Quốc Tế (SD)",CNA HD
+#EXTINF:-1 aspect-ratio="16:9" tvg-name="Channel News Asia" group-title="Quốc Tế (HD)",CNA HD
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 aspect-ratio="16:9" tvg-name="CINEMA WORLD" group-title="Quốc Tế (HD)",Cinema World (HD 8Mbps)
 udp://@225.1.1.142:30120
