@@ -547,9 +547,9 @@ udp://@225.1.1.121:30120
 udp://@225.1.1.2:30120
 #EXTINF:-1 group-title="FPT Service",Chơi Hay Chia
 udp://@225.1.1.26:30120
-#EXTINF:-1 group-title="FPT Service",THỬ NGHIỆM
+#EXTINF:-1 group-title="FPT Service",THỬ NGHIỆM 1
 udp://@225.1.1.107:30120
-#EXTINF:-1 group-title="FPT Service",THỬ NGHIỆM
+#EXTINF:-1 group-title="FPT Service",THỬ NGHIỆM 2
 udp://@225.1.1.114:30120
 #-------------------Mua sắm-------------------#
 #EXTINF:-1 group-title="Mua Sắm",VTVCab11 VGS SHOP
