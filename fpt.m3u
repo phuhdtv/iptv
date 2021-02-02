@@ -310,7 +310,7 @@ udp://@225.1.1.188:30120
 udp://@225.1.1.142:30120
 #EXTINF:-1 tvg-name="Max by HBO" group-title="Quốc Tế (HD)",CINEMAX (HD 8Mbps)
 udp://@225.1.2.86:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",DREAMWORKS HD
+#EXTINF:-1 group-title="Quốc Tế (HD)",DREAMWORKS (HD 8Mbps)
 udp://@225.1.1.136:30120
 #EXTINF:-1 tvg-name="Da Vinci" group-title="Quốc Tế (HD)",Da Vinci (HD 8Mbps)
 udp://@225.1.1.197:30120
@@ -324,6 +324,8 @@ udp://@225.1.2.158:30120
 udp://@225.1.1.233:30120
 #EXTINF:-1 tvg-name="DW-ClipTV" group-title="Quốc Tế (HD)",DW (HD 8Mbps)
 udp://@225.1.1.46:30120
+#EXTINF:-1 tvg-name="" group-title="Quốc Tế (HD)",FX (HD 8Mbps)
+udp://@225.1.1.213:30120
 #EXTINF:-1 tvg-name="Fashion TV HD" group-title="Quốc Tế (HD)",Fashion TV (HD 8Mbps)
 udp://@225.1.2.227:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)",Fashion TV 4K
@@ -334,6 +336,8 @@ udp://@225.1.2.234:30120
 udp://@225.1.1.51:30120
 #EXTINF:-1 tvg-name="Fox Life HD-ClipTV" group-title="Quốc Tế (HD)",FOX life (HD 8Mbps)
 udp://@225.1.2.237:30120
+#EXTINF:-1 tvg-name="" group-title="Quốc Tế (HD)",FOX FAMILY MOVIES (HD 8Mbps)
+udp://@225.1.1.140:30120
 #EXTINF:-1 tvg-name="Fox Movies HD-ClipTV" group-title="Quốc Tế (HD)",FOX MOVIES (HD 8Mbps)
 udp://@225.1.2.239:30120
 #EXTINF:-1 tvg-name="FOX SPORTS-ClipTV" group-title="Quốc Tế (HD)",FOX SPORTS (HD 8Mbps)
@@ -350,6 +354,8 @@ udp://@225.1.4.90:30120
 udp://@225.1.2.144:30120
 #EXTINF:-1 tvg-name="National Geographic HD-ClipTV" group-title="Quốc Tế (HD)",NATIONAL GEOGRAPHIC HD (HD 8Mbps)
 udp://@225.1.2.235:30120
+#EXTINF:-1 tvg-name="Nat Geo Wild HD-ClipTV" group-title="Quốc Tế (HD)" tvg-logo="",NATIONAL GEOGRAPHIC WILD (HD 8Mbps)
+udp://@225.1.1.211:30120
 #EXTINF:-1 tvg-name="NHK World-Japan(HD)" group-title="Quốc Tế (HD)",NHK WORLD JAPAN (HD 8Mbps)
 udp://@225.1.1.47:30120
 #EXTINF:-1 tvg-name="Outdoor Channel (HD)" group-title="Quốc Tế (HD)",Outdoor Channel (HD 8Mbps)
@@ -391,6 +397,8 @@ udp://@225.1.2.211:30120
 udp://@225.1.1.196:30120
 #EXTINF:-1 tvg-name="TV5 Asie" group-title="Quốc Tế (SD)",TV5 MONDE ASIE
 udp://@225.1.1.200:30120
+#EXTINF:-1 tvg-name="Первый Канал СНГ" group-title="Quốc Tế (SD)",Первый Канал СНГ [+3]
+udp://@225.1.1.7:30120
 #-------------------FPT Play-------------------#
 #EXTINF:-1 tvg-name="VTV1-VTV" group-title="FPT Play",VTV1 HD
 udp://@225.1.4.1:30120
@@ -547,10 +555,6 @@ udp://@225.1.1.121:30120
 udp://@225.1.1.2:30120
 #EXTINF:-1 group-title="FPT Service",Chơi Hay Chia
 udp://@225.1.1.26:30120
-#EXTINF:-1 group-title="FPT Service",THỬ NGHIỆM 1
-udp://@225.1.1.107:30120
-#EXTINF:-1 group-title="FPT Service",THỬ NGHIỆM 2
-udp://@225.1.1.114:30120
 #-------------------Mua sắm-------------------#
 #EXTINF:-1 group-title="Mua Sắm",VTVCab11 VGS SHOP
 udp://@225.1.2.167:30120
