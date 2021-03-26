@@ -1,589 +1,1166 @@
-#EXTM3U url-tvg="http://gg.gg/epgmytv" aspect-ratio=16:9
+#EXTM3U aspect-ratio=16:9
 #-------------------VTV-------------------#
-#EXTINF:-1 tvg-name="VTV1-VTV" group-title="VTV",VTV1 HD (HD 8Mbps)
+#EXTINF:-1 group-title="VTV",VTV1 HD (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.2.249:30120
-#EXTINF:-1 tvg-name="VTV2-VTV" group-title="VTV",VTV2 HD (HD 8Mbps)
+#EXTINF:-1 group-title="VTV",VTV2 HD (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.2.13:30120
-#EXTINF:-1 tvg-name="VTV3-VTV" group-title="VTV",VTV3 HD (HD 8Mbps)
+#EXTINF:-1 group-title="VTV",VTV3 HD (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.2.247:30120
-#EXTINF:-1 tvg-name="VTV4-VTV" group-title="VTV",VTV4 HD (HD 8Mbps)
+#EXTINF:-1 group-title="VTV",VTV4 HD (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.2.20:30120
-#EXTINF:-1 tvg-name="VTV5-VTV" group-title="VTV",VTV5 HD (HD 8Mbps)
+#EXTINF:-1 group-title="VTV",VTV5 HD (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.131:30120
-#EXTINF:-1 tvg-name="VTV6-VTV" group-title="VTV",VTV6 HD (HD 8Mbps)
+#EXTINF:-1 group-title="VTV",VTV6 HD (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.2.245:30120
-#EXTINF:-1 tvg-name="VTV7-VTV" group-title="VTV",VTV7 HD (HD 8Mbps)
+#EXTINF:-1 group-title="VTV",VTV7 HD (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.2.96:30120
-#EXTINF:-1 tvg-name="VTV8-VTV" group-title="VTV",VTV8 HD (HD 8Mbps)
+#EXTINF:-1 group-title="VTV",VTV8 HD (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.2.166:30120
-#EXTINF:-1 tvg-name="VTV9-VTV" group-title="VTV",VTV9 HD (HD 8Mbps)
+#EXTINF:-1 group-title="VTV",VTV9 HD (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.128:30120
-#EXTINF:-1 tvg-name="VTV1-VTV" group-title="VTV",VTV1 HD (HD 8Mbps)
+#EXTINF:-1 group-title="VTV",VTV1 HD (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.239:30120
-#EXTINF:-1 tvg-name="VTV2-VTV" group-title="VTV",VTV2 HD (HD 8Mbps)
+#EXTINF:-1 group-title="VTV",VTV2 HD (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.240:30120
-#EXTINF:-1 tvg-name="VTV3-VTV" group-title="VTV",VTV3 HD (HD 8Mbps)
+#EXTINF:-1 group-title="VTV",VTV3 HD (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.241:30120
-#EXTINF:-1 tvg-name="VTV2-VTV" group-title="VTV",VTV2 HD (HD 4Mbps)
+#EXTINF:-1 group-title="VTV",VTV2 HD (HD 4Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.4.2:30120
-#EXTINF:-1 tvg-name="VTV3-VTV" group-title="VTV",VTV3 HD (HD 4Mbps)
+#EXTINF:-1 group-title="VTV",VTV3 HD (HD 4Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.4.3:30120
-#EXTINF:-1 tvg-name="VTV4-VTV" group-title="VTV",VTV4 HD (HD 4Mbps)
+#EXTINF:-1 group-title="VTV",VTV4 HD (HD 4Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.4.4:30120
-#EXTINF:-1 tvg-name="VTV6-VTV" group-title="VTV",VTV6 HD (HD 4Mbps)
+#EXTINF:-1 group-title="VTV",VTV6 HD (HD 4Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.4.6:30120
 #-------------------VTC/VOV-------------------#
-#EXTINF:-1 tvg-name="VTC1-ClipTV" group-title="VTC",VTC1 HD (HD 8Mbps)
+#EXTINF:-1 group-title="VTC",VTC1 HD (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.2.254:30120
-#EXTINF:-1 tvg-name="VTC3HD-ClipTV" group-title="VTC",VTC3 HD (HD 8Mbps)
+#EXTINF:-1 group-title="VTC",VTC3 HD (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.2.251:30120
-#EXTINF:-1 tvg-name="YEAH1 FAMILY VTC4" group-title="VTC",VTC4 HD (HD 8Mbps)
+#EXTINF:-1 group-title="VTC",VTC4 HD (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.2.200:30120
-#EXTINF:-1 tvg-name="VTC13" group-title="VTC",VTC13 HD (HD 8Mbps)
+#EXTINF:-1 group-title="VTC",VTC13 HD (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.2.250:30120
-#EXTINF:-1 tvg-name="VTC14-ClipTV" group-title="VTC",VTC14 HD (HD 8Mbps)
+#EXTINF:-1 group-title="VTC",VTC14 HD (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.2.88:30120
-#EXTINF:-1 tvg-name="VTC16-ClipTV" group-title="VTC",VTC16 HD (HD 8Mbps)
+#EXTINF:-1 group-title="VTC",VTC16 HD (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.2.190:30120
-#EXTINF:-1 tvg-name="VTC1-ClipTV" group-title="VTC",VTC1 HD (HD 4Mbps)
-udp://@225.1.1.65:30120
-#EXTINF:-1 tvg-name="VTC3HD-ClipTV" group-title="VTC",VTC3 HD (HD 4Mbps)
+#EXTINF:-1 group-title="VTC",VTC3 HD (HD 4Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.4.42:30120
-#EXTINF:-1 tvg-name="VTC13" group-title="VTC",VTC13 HD (HD 4Mbps)
+#EXTINF:-1 group-title="VTC",VTC13 HD (HD 4Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.4.52:30120
-#EXTINF:-1 tvg-name="VTC2-ClipTV" group-title="VTC",VTC2
+#EXTINF:-1 group-title="VTC",VTC2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.2.202:30120
-#EXTINF:-1 tvg-name="VTC5-ClipTV" group-title="VTC",VTC5
+#EXTINF:-1 group-title="VTC",VTC5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.2.199:30120
-#EXTINF:-1 tvg-name="VTC6-ClipTV" group-title="VTC",VTC6
+#EXTINF:-1 group-title="VTC",VTC6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.2.198:30120
-#EXTINF:-1 tvg-name="TODAYTV" group-title="VTC",VTC7
+#EXTINF:-1 group-title="VTC",VTC7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.2.197:30120
-#EXTINF:-1 tvg-name="VTC8 HD" group-title="VTC",VTC8
+#EXTINF:-1 group-title="VTC",VTC8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.2.196:30120
-#EXTINF:-1 tvg-name="VTC9 Let's Viet" group-title="VTC",VTC9
+#EXTINF:-1 group-title="VTC",VTC9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.2.195:30120
-#EXTINF:-1 tvg-name="VTC10-ClipTV" group-title="VTC",VTC10
+#EXTINF:-1 group-title="VTC",VTC10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.2.194:30120
-#EXTINF:-1 tvg-name="VTC11 THIEU NHI" group-title="VTC",VTC11
+#EXTINF:-1 group-title="VTC",VTC11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.2.193:30120
 #EXTINF:-1 group-title="VTC",VTC12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.2.51:30120
-#EXTINF:-1 tvg-name="VOVTV" group-title="VTC",VOV TV
+#EXTINF:-1 group-title="VTC",VOV TV
 udp://@225.1.2.171:30120
 #-------------------HTV/HTVC-------------------#
-#EXTINF:-1 tvg-name="HTV2-ClipTV" group-title="HTV/HTVC",HTV2 Vie Channel (HD 8Mbps)
+#EXTINF:-1 group-title="HTV/HTVC",HTV2 Vie Channel (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.193:30120
-#EXTINF:-1 tvg-name="HTV7 HD" group-title="HTV/HTVC",HTV7 HD (HD 8Mbps)
+#EXTINF:-1 group-title="HTV/HTVC",HTV7 HD (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.192:30120
-#EXTINF:-1 tvg-name="HTV9 HD" group-title="HTV/HTVC",HTV9 HD (HD 8Mbps)
+#EXTINF:-1 group-title="HTV/HTVC",HTV9 HD (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.190:30120
-#EXTINF:-1 tvg-name="FBNC" group-title="HTV/HTVC",FBNC (HD 8Mbps)
+#EXTINF:-1 group-title="HTV/HTVC",FBNC (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.182:30120
-#EXTINF:-1 tvg-name="HTVC Phim HD" group-title="HTV/HTVC",HTVC Phim (HD 8Mbps)
+#EXTINF:-1 group-title="HTV/HTVC",HTVC Phim (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.184:30120
-#EXTINF:-1 tvg-name="HTVC THUAN VIET HD" group-title="HTV/HTVC",Thuần Việt HD (HD 8Mbps)
+#EXTINF:-1 group-title="HTV/HTVC",Thuần Việt HD (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.186:30120
-#EXTINF:-1 tvg-name="HTV7 HD" group-title="HTV/HTVC",HTV7 HD (HD 4Mbps)
+#EXTINF:-1 group-title="HTV/HTVC",HTV7 HD (HD 4Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.4.59:30120
-#EXTINF:-1 tvg-name="HTV1" group-title="HTV/HTVC",HTV1
+#EXTINF:-1 group-title="HTV/HTVC",HTV1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.180:30120
-#EXTINF:-1 tvg-name="HTV3-ClipTV" group-title="HTV/HTVC",HTV3 Dreams TV
+#EXTINF:-1 group-title="HTV/HTVC",HTV3 Dreams TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.178:30120
-#EXTINF:-1 tvg-name="HTV4" group-title="HTV/HTVC",HTV Keys
+#EXTINF:-1 group-title="HTV/HTVC",HTV Keys
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.177:30120
-#EXTINF:-1 tvg-name="HTV THE THAO" group-title="HTV/HTVC",HTV THỂ THAO
+#EXTINF:-1 group-title="HTV/HTVC",HTV THỂ THAO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.165:30120
 #EXTINF:-1 group-title="HTV/HTVC",HTVC Ca Nhạc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.185:30120
-#EXTINF:-1 tvg-name="HTVC DU LICH CUOC SONG" group-title="HTV/HTVC",HTVC Du Lịch và Cuộc Sống
+#EXTINF:-1 group-title="HTV/HTVC",HTVC Du Lịch và Cuộc Sống
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.166:30120
-#EXTINF:-1 tvg-name="HTVC GIA DINH" group-title="HTV/HTVC",HTVC Gia Đình
+#EXTINF:-1 group-title="HTV/HTVC",HTVC Gia Đình
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.170:30120
-#EXTINF:-1 tvg-name="HTVC PHU NU HD" group-title="HTV/HTVC",HTVC Phụ Nữ
+#EXTINF:-1 group-title="HTV/HTVC",HTVC Phụ Nữ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.171:30120
-#EXTINF:-1 tvg-name="HTVC Thuần Việt" group-title="HTV/HTVC",HTVC Thuần Việt
+#EXTINF:-1 group-title="HTV/HTVC",HTVC Thuần Việt
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.174:30120
 #EXTINF:-1 group-title="HTV/HTVC",HTVC+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.181:30120
-#-------------------SCTV-------------------#
-#EXTINF:-1 group-title="SCTV",SCTV2
-udp://@225.1.1.234:30120
 #-------------------Thiết yếu-------------------#
-#EXTINF:-1 tvg-name="ANTV" group-title="Kênh TH Thiết yếu",ANTV HD (HD 8Mbps)
+#EXTINF:-1 group-title="Kênh TH Thiết yếu",ANTV HD (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.2.169:30120
-#EXTINF:-1 tvg-name="TH NHAN DAN" group-title="Kênh TH Thiết yếu",Nhân Dân TV (HD 8Mbps)
+#EXTINF:-1 group-title="Kênh TH Thiết yếu",Nhân Dân TV (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.91:30120
-#EXTINF:-1 tvg-name="QUOC HOI" group-title="Kênh TH Thiết yếu",QUỐC HỘI (HD 8Mbps)
+#EXTINF:-1 group-title="Kênh TH Thiết yếu",QUỐC HỘI (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.2.148:30120
-#EXTINF:-1 tvg-name="QUOC PHONG VIET NAM HD" group-title="Kênh TH Thiết yếu",QPVN (HD 8Mbps)
+#EXTINF:-1 group-title="Kênh TH Thiết yếu",QPVN (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.2.217:30120
-#EXTINF:-1 tvg-name="THONG TAN XA VIET NAM" group-title="Kênh TH Thiết yếu",VNEWS (HD 8Mbps)
+#EXTINF:-1 group-title="Kênh TH Thiết yếu",VNEWS (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.43:30120
-#EXTINF:-1 tvg-name="QUOC HOI" group-title="Kênh TH Thiết yếu",QUỐC HỘI (HD 4Mbps)
+#EXTINF:-1 group-title="Kênh TH Thiết yếu",QUỐC HỘI (HD 4Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.4.148:30120
-#EXTINF:-1 tvg-name="QUOC PHONG VIET NAM HD" group-title="Kênh TH Thiết yếu",QPVN (HD 4Mbps)
+#EXTINF:-1 group-title="Kênh TH Thiết yếu",QPVN (HD 4Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.4.217:30120
 #-------------------Other-------------------#
 #EXTINF:-1 group-title="Other",HanoiCab2 YouTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.207:30120
-#EXTINF:-1 tvg-name="MTV" group-title="Other",MTV
+#EXTINF:-1 group-title="Other",MTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.245:30120
+#EXTINF:-1 group-title="Other",SCTV2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+udp://@225.1.1.234:30120
+#EXTINF:-1 group-title="Other",SCTV8 VITV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://210.86.230.202:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
 #-------------------Địa phương HD-------------------#
-#EXTINF:-1 tvg-name="TH LAO CAI" group-title="Địa phương (HD)",THLC _ TH Lào Cai (HD 8Mbps)
+#EXTINF:-1 group-title="Địa phương (HD)",THLC _ TH Lào Cai (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.119:30120
 #EXTINF:-1 group-title="Địa phương (HD)",ĐTV HD _ TH Điện Biên (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.74:30120
-#EXTINF:-1 tvg-name="TH TUYEN QUANG" group-title="Địa phương (HD)",TTV HD _ TH Tuyên Quang (HD 8Mbps)
+#EXTINF:-1 group-title="Địa phương (HD)",TTV HD _ TH Tuyên Quang (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.2.188:30120
-#EXTINF:-1 tvg-name="TH THAI NGUYEN" group-title="Địa phương (HD)",TN1 HD _ TH Thái Nguyên (HD 8Mbps)
+#EXTINF:-1 group-title="Địa phương (HD)",TN1 HD _ TH Thái Nguyên (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.2.179:30120
-#EXTINF:-1 tvg-name="TH HOA BINH" group-title="Địa phương (HD)",HBTV HD _ TH Hòa Bình (HD 4Mbps)
+#EXTINF:-1 group-title="Địa phương (HD)",HBTV HD _ TH Hòa Bình (HD 4Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.2.168:30120
-#EXTINF:-1 tvg-name="TH PHU THO" group-title="Địa phương (HD)",PTV HD _ TH Phú Thọ (HD 8Mbps)
+#EXTINF:-1 group-title="Địa phương (HD)",PTV HD _ TH Phú Thọ (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.2.165:30120
-#EXTINF:-1 tvg-name="TH BAC GIANG" group-title="Địa phương (HD)",BGTV HD _ TH Bắc Giang (HD 8Mbps)
+#EXTINF:-1 group-title="Địa phương (HD)",BGTV HD _ TH Bắc Giang (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.164:30120
-#EXTINF:-1 tvg-name="TH LANG SON" group-title="Địa phương (HD)",LSTV HD _ TH Lạng Sơn (HD 8Mbps)
+#EXTINF:-1 group-title="Địa phương (HD)",LSTV HD _ TH Lạng Sơn (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.160:30120
-#EXTINF:-1 tvg-name="TH CAO BANG" group-title="Địa phương (HD)",CRTV HD _ TH Cao Bằng (HD 8Mbps)
+#EXTINF:-1 group-title="Địa phương (HD)",CRTV HD _ TH Cao Bằng (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.102:30120
-#EXTINF:-1 tvg-name="TH QUANG NINH 1" group-title="Địa phương (HD)",QTV1 HD _ TH Quảng Ninh (HD 8Mbps)
+#EXTINF:-1 group-title="Địa phương (HD)",QTV1 HD _ TH Quảng Ninh (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.2.181:30120
-#EXTINF:-1 tvg-name="TH BAC NINH" group-title="Địa phương (HD)",BTV _ TH Bắc Ninh (HD 8Mbps)
+#EXTINF:-1 group-title="Địa phương (HD)",BTV _ TH Bắc Ninh (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.40:30120
-#EXTINF:-1 tvg-name="HANOITV 1" group-title="Địa phương (HD)",H1 HD _ TH Hà Nội (HD 8Mbps)
+#EXTINF:-1 group-title="Địa phương (HD)",H1 HD _ TH Hà Nội (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.2.186:30120
-#EXTINF:-1 tvg-name="HANOITV 2" group-title="Địa phương (HD)",H2 HD _ TH Hà Nội (HD 8Mbps)
+#EXTINF:-1 group-title="Địa phương (HD)",H2 HD _ TH Hà Nội (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.125:30120
-#EXTINF:-1 tvg-name="TH HAI PHONG" group-title="Địa phương (HD)",THP HD _ TH TP. Hải Phòng (HD 8Mbps)
+#EXTINF:-1 group-title="Địa phương (HD)",THP HD _ TH TP. Hải Phòng (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.44:30120
-#EXTINF:-1 tvg-name="TH NINH BINH" group-title="Địa phương (HD)",NTV HD _ TH Ninh Bình (HD 8Mbps)
+#EXTINF:-1 group-title="Địa phương (HD)",NTV HD _ TH Ninh Bình (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.2.185:30120
-#EXTINF:-1 tvg-name="TH NGHE AN" group-title="Địa phương (HD)",NTV HD _ TH Nghệ An (HD 8Mbps)
+#EXTINF:-1 group-title="Địa phương (HD)",NTV HD _ TH Nghệ An (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.2.183:30120
-#EXTINF:-1 tvg-name="TH HA TINH" group-title="Địa phương (HD)",HTTV HD _ TH Hà Tĩnh (HD 8Mbps)
+#EXTINF:-1 group-title="Địa phương (HD)",HTTV HD _ TH Hà Tĩnh (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.75:30120
-#EXTINF:-1 tvg-name="TH QUANG TRI" group-title="Địa phương (HD)",QRTV _ TH Quảng Trị (HD 8Mbps)
+#EXTINF:-1 group-title="Địa phương (HD)",QRTV _ TH Quảng Trị (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.117:30120
-#EXTINF:-1 tvg-name="TH DA NANG 1" group-title="Địa phương (HD)",DaNangTV1 HD _ TH TP. Đà Nẵng (HD 8Mbps)
+#EXTINF:-1 group-title="Địa phương (HD)",DaNangTV1 HD _ TH TP. Đà Nẵng (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.147:30120
 #EXTINF:-1 group-title="Địa phương (HD)",DaNangTV2 HD _ TH TP. Đà Nẵng (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.146:30120
-#EXTINF:-1 tvg-name="TH QUANG NAM" group-title="Địa phương (HD)",QRT HD _ TH Quảng Nam (HD 8Mbps)
+#EXTINF:-1 group-title="Địa phương (HD)",QRT HD _ TH Quảng Nam (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.2.50:30120
-#EXTINF:-1 tvg-name="TH QUANG NGAI" group-title="Địa phương (HD)",PTQ _ TH Quảng Ngãi (HD 8Mbps)
+#EXTINF:-1 group-title="Địa phương (HD)",PTQ _ TH Quảng Ngãi (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.2.174:30120
-#EXTINF:-1 tvg-name="TH BINH DINH" group-title="Địa phương (HD)",BTV _ TH Bình Định (HD 8Mbps)
+#EXTINF:-1 group-title="Địa phương (HD)",BTV _ TH Bình Định (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.145:30120
-#EXTINF:-1 tvg-name="TH PHU YEN" group-title="Địa phương (HD)",PTP _ TH Phú Yên (HD 8Mbps)
+#EXTINF:-1 group-title="Địa phương (HD)",PTP _ TH Phú Yên (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.2.58:30120
-#EXTINF:-1 tvg-name="TH KHANH HOA" group-title="Địa phương (HD)",KTV HD _ TH Khánh Hòa (HD 8Mbps)
+#EXTINF:-1 group-title="Địa phương (HD)",KTV HD _ TH Khánh Hòa (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.133:30120
-#EXTINF:-1 tvg-name="KRT KON TUM" group-title="Địa phương (HD)",KRT _ TH Kon Tum (HD 8Mbps)
+#EXTINF:-1 group-title="Địa phương (HD)",KRT _ TH Kon Tum (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.36:30120
-#EXTINF:-1 tvg-name="TH GIA LAI" group-title="Địa phương (HD)",THGL _ TH Gia Lai (HD 8Mbps)
+#EXTINF:-1 group-title="Địa phương (HD)",THGL _ TH Gia Lai (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.2.176:30120
-#EXTINF:-1 tvg-name="TH LAM DONG" group-title="Địa phương (HD)",LTV HD _ TH Lâm Đồng (HD 8Mbps)
+#EXTINF:-1 group-title="Địa phương (HD)",LTV HD _ TH Lâm Đồng (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.2.177:30120
-#EXTINF:-1 tvg-name="TH BINH DUONG 1" group-title="Địa phương (HD)",BTV1 HD _ TH Bình Dương (HD 8Mbps)
+#EXTINF:-1 group-title="Địa phương (HD)",BTV1 HD _ TH Bình Dương (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.150:30120
-#EXTINF:-1 tvg-name="TH BINH DUONG 2" group-title="Địa phương (HD)",BTV2 HD _ TH Bình Dương (HD 8Mbps)
+#EXTINF:-1 group-title="Địa phương (HD)",BTV2 HD _ TH Bình Dương (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.149:30120
 #EXTINF:-1 group-title="Địa phương (HD)",BTV3 HD _ TH Bình Dương (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.2.22:30120
-#EXTINF:-1 tvg-name="IMOVIE HD" group-title="Địa phương (HD)",BTV4 HD _ TH Bình Dương (HD 8Mbps)
+#EXTINF:-1 group-title="Địa phương (HD)",BTV4 HD _ TH Bình Dương (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.30:30120
-#EXTINF:-1 tvg-name="AN VIEN HD" group-title="Địa phương (HD)",BTV9 An Viên HD (HD 8Mbps)
+#EXTINF:-1 group-title="Địa phương (HD)",BTV9 An Viên HD (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.2.189:30120
-#EXTINF:-1 tvg-name="TH DONG NAI 1" group-title="Địa phương (HD)",ĐNRTV1 HD _ TH Đồng Nai (HD 8Mbps)
+#EXTINF:-1 group-title="Địa phương (HD)",ĐNRTV1 HD _ TH Đồng Nai (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.152:30120
-#EXTINF:-1 tvg-name="TH DONG NAI 2" group-title="Địa phương (HD)",ĐNRTV2 HD _ TH Đồng Nai (HD 8Mbps)
+#EXTINF:-1 group-title="Địa phương (HD)",ĐNRTV2 HD _ TH Đồng Nai (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.151:30120
-#EXTINF:-1 tvg-name="TH TAY NINH" group-title="Địa phương (HD)",TTV11 _ TH Tây Ninh (HD 8Mbps)
+#EXTINF:-1 group-title="Địa phương (HD)",TTV11 _ TH Tây Ninh (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.130:30120
-#EXTINF:-1 tvg-name="TH BA RIA VUNG TAU" group-title="Địa phương (HD)",BRT HD _ TH Bà Rịa Vũng Tàu (HD 8Mbps)
+#EXTINF:-1 group-title="Địa phương (HD)",BRT HD _ TH Bà Rịa Vũng Tàu (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.2.175:30120
-#EXTINF:-1 tvg-name="TH TIEN GIANG" group-title="Địa phương (HD)",THTG HD _ TH Tiền Giang (HD 8Mbps)
+#EXTINF:-1 group-title="Địa phương (HD)",THTG HD _ TH Tiền Giang (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.2.170:30120
-#EXTINF:-1 tvg-name="THVL1 HD" group-title="Địa phương (HD)",THVL1 HD _ TH Vĩnh Long (HD 8Mbps)
+#EXTINF:-1 group-title="Địa phương (HD)",THVL1 HD _ TH Vĩnh Long (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.155:30120
-#EXTINF:-1 tvg-name="THVL2 HD" group-title="Địa phương (HD)",THVL2 HD _ TH Vĩnh Long (HD 8Mbps)
+#EXTINF:-1 group-title="Địa phương (HD)",THVL2 HD _ TH Vĩnh Long (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.154:30120
-#EXTINF:-1 tvg-name="THVL3 HD" group-title="Địa phương (HD)",THVL3 HD _ TH Vĩnh Long (HD 8Mbps)
+#EXTINF:-1 group-title="Địa phương (HD)",THVL3 HD _ TH Vĩnh Long (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.235:30120
-#EXTINF:-1 tvg-name="THVL4 HD" group-title="Địa phương (HD)",THVL4 HD _ TH Vĩnh Long (HD 8Mbps)
+#EXTINF:-1 group-title="Địa phương (HD)",THVL4 HD _ TH Vĩnh Long (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.2.25:30120
-#EXTINF:-1 tvg-name="TH TRA VINH" group-title="Địa phương (HD)",THTV HD _ TH Trà Vinh (HD 8Mbps)
+#EXTINF:-1 group-title="Địa phương (HD)",THTV HD _ TH Trà Vinh (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.2.172:30120
-#EXTINF:-1 tvg-name="TH HAU GIANG" group-title="Địa phương (HD)",HGTV _ TH Hậu Giang (HD 8Mbps)
+#EXTINF:-1 group-title="Địa phương (HD)",HGTV _ TH Hậu Giang (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.157:30120
-#EXTINF:-1 tvg-name="TH KIEN GIANG 1" group-title="Địa phương (HD)",KG1 _ TH Kiên Giang (HD 8Mbps)
+#EXTINF:-1 group-title="Địa phương (HD)",KG1 _ TH Kiên Giang (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.2.182:30120
-#EXTINF:-1 tvg-name="TH BAC LIEU" group-title="Địa phương (HD)",BLTV HD _ TH Bạc Liêu (HD 8Mbps)
+#EXTINF:-1 group-title="Địa phương (HD)",BLTV HD _ TH Bạc Liêu (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.61:30120
-#EXTINF:-1 tvg-name="TH CA MAU" group-title="Địa phương (HD)",CTV _ TH Cà Mau (HD 8Mbps)
+#EXTINF:-1 group-title="Địa phương (HD)",CTV _ TH Cà Mau (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.104:30120
+#EXTINF:-1 group-title="Địa phương (HD)",THTPCT HD _ TH TP. Cần Thơ (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+udp://@225.1.1.132:30120
 #-------------------Địa phương SD-------------------#
-#EXTINF:-1 tvg-name="TH YEN BAI" group-title="Địa phương (SD)",YTV _ TH Yên Bái
+#EXTINF:-1 group-title="Địa phương (SD)",YTV _ TH Yên Bái
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.39:30120
 #EXTINF:-1 group-title="Địa phương (SD)",LTV _ TH Lai Châu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.2.36:30120
-#EXTINF:-1 tvg-name="TH SON LA" group-title="Địa phương (SD)",STV _ TH Sơn La
+#EXTINF:-1 group-title="Địa phương (SD)",STV _ TH Sơn La
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.98:30120
-#EXTINF:-1 tvg-name="TH HA GIANG" group-title="Địa phương (SD)",HGTV _ TH Hà Giang
+#EXTINF:-1 group-title="Địa phương (SD)",HGTV _ TH Hà Giang
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.62:30120
-#EXTINF:-1 tvg-name="TH BAC KAN" group-title="Địa Phương (SD)",TBK _ TH Bắc Kạn
+#EXTINF:-1 group-title="Địa phương (SD)",TBK _ TH Bắc Kạn
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.126:30120
-#EXTINF:-1 tvg-name="TH QUANG NINH 3" group-title="Địa phương (SD)",QTV3 _ TH Quảng Ninh
+#EXTINF:-1 group-title="Địa phương (SD)",QTV3 _ TH Quảng Ninh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.2.180:30120
-#EXTINF:-1 tvg-name="TH HA NAM" group-title="Địa phương (SD)",THHN _ TH Hà Nam
+#EXTINF:-1 group-title="Địa phương (SD)",THHN _ TH Hà Nam
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.63:30120
-#EXTINF:-1 tvg-name="TH HAI DUONG" group-title="Địa phương (SD)",THD _ TH Hải Dương
+#EXTINF:-1 group-title="Địa phương (SD)",THD _ TH Hải Dương
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.158:30120
-#EXTINF:-1 tvg-name="TH HUNG YEN" group-title="Địa phương (SD)",HY _ TH Hưng Yên
+#EXTINF:-1 group-title="Địa phương (SD)",HY _ TH Hưng Yên
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.118:30120
 #EXTINF:-1 group-title="Địa phương (SD)",NTV _ TH Nam Định
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.120:30120
 #EXTINF:-1 group-title="Địa phương (SD)",TBTV _ TH Thái Bình
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.99:30120
 #EXTINF:-1 group-title="Địa phương (SD)",VP _ TH Vĩnh Phúc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.2.99:30120
-#EXTINF:-1 tvg-name="TH THANH HOA" group-title="Địa phương (SD)",TTV _ TH Thanh Hóa
+#EXTINF:-1 group-title="Địa phương (SD)",TTV _ TH Thanh Hóa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.2.184:30120
-#EXTINF:-1 tvg-name="TH QUANG BINH" group-title="Địa phương (SD)",QBTV _ TH Quảng Bình
+#EXTINF:-1 group-title="Địa phương (SD)",QBTV _ TH Quảng Bình
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.2.164:30120
-#EXTINF:-1 tvg-name="TH THUA THIEN HUE" group-title="Địa phương (SD)",TRT _ TH Thừa Thiên Huế
+#EXTINF:-1 group-title="Địa phương (SD)",TRT _ TH Thừa Thiên Huế
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.161:30120
-#EXTINF:-1 tvg-name="TH NINH THUAN" group-title="Địa phương (SD)",NTV _ TH Ninh Thuận
+#EXTINF:-1 group-title="Địa phương (SD)",NTV _ TH Ninh Thuận
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.2.178:30120
-#EXTINF:-1 tvg-name="TH BINH THUAN" group-title="Địa phương (SD)",BTV _ TH Bình Thuận
+#EXTINF:-1 group-title="Địa phương (SD)",BTV _ TH Bình Thuận
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.124:30120
-#EXTINF:-1 tvg-name="TH DAK LAK" group-title="Địa phương (SD)",DRT _ TH Đắk Lắk
+#EXTINF:-1 group-title="Địa phương (SD)",DRT _ TH Đắk Lắk
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.64:30120
-#EXTINF:-1 tvg-name="TH BINH PHUOC 1" group-title="Địa phương (SD)",BPTV1 _ TH Bình Phước
+#EXTINF:-1 group-title="Địa Phương (SD)",PTD _ TH Đắk Nông
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://live-vthcm.vieon.vn/htv_drm/live/dak_nong/TV_HD/dak_nong_480p/chunks.m3u8
+#EXTINF:-1 group-title="Địa phương (SD)",BPTV1 _ TH Bình Phước
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.2.23:30120
 #EXTINF:-1 group-title="Địa phương (SD)",BPTV2 Home TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.2.38:30120
 #EXTINF:-1 group-title="Địa phương (SD)",BTV6 _ TH Bình Dương
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.223:30120
 #EXTINF:-1 group-title="Địa phương (SD)",BTV10 NCM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.225:30120
-#EXTINF:-1 tvg-name="TH LONG AN" group-title="Địa phương (SD)",LA34 _ TH Long An
+#EXTINF:-1 group-title="Địa phương (SD)",LA34 _ TH Long An
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.162:30120
-#EXTINF:-1 tvg-name="TH DONG THAP 1" group-title="Địa phương (SD)",THĐT1 _ TH Đồng Tháp
+#EXTINF:-1 group-title="Địa phương (SD)",THĐT1 _ TH Đồng Tháp
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.163:30120
-#EXTINF:-1 tvg-name="TH AN GIANG" group-title="Địa phương (SD)",ATV _ TH An Giang
+#EXTINF:-1 group-title="Địa phương (SD)",ATV _ TH An Giang
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.2.173:30120
-#EXTINF:-1 tvg-name="TH BEN TRE" group-title="Địa phương (SD)",THBT _ TH Bến Tre
+#EXTINF:-1 group-title="Địa phương (SD)",THBT _ TH Bến Tre
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.156:30120
-#EXTINF:-1 tvg-name="TH SOC TRANG" group-title="Địa phương (SD)",STV1 _ TH Sóc Trăng
+#EXTINF:-1 group-title="Địa phương (SD)",STV1 _ TH Sóc Trăng
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.159:30120
-#EXTINF:-1 tvg-name="TH CAN THO" group-title="Địa phương (SD)",THTPCT _ TH TP. Cần Thơ
-udp://@225.1.1.132:30120
 #-------------------Quốc tế HD-------------------#
-#EXTINF:-1 tvg-name="Animal Planet-ClipTV" group-title="Quốc Tế (HD)",Animal Planet (HD 8Mbps)
+#EXTINF:-1 group-title="Quốc Tế (HD)",Animal Planet (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.231:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)",Animax (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.135:30120
-#EXTINF:-1 tvg-name="Asian Food Channel" group-title="Quốc Tế (HD)",Asian Food Network (HD 8Mbps)
+#EXTINF:-1 group-title="Quốc Tế (HD)",Asian Food Network (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.198:30120
-#EXTINF:-1 tvg-name="AXN-ClipTV" group-title="Quốc Tế (HD)",AXN (HD 8Mbps)
+#EXTINF:-1 group-title="Quốc Tế (HD)",AXN (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.2.225:30120
-#EXTINF:-1 tvg-name="Baby TV HD-ClipTV" group-title="Quốc Tế (HD)",Baby TV (HD 8Mbps)
+#EXTINF:-1 group-title="Quốc Tế (HD)",Baby TV (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.2.146:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)",BBC CbeeBies (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.134:30120
-#EXTINF:-1 tvg-name="BBC EARTH" group-title="Quốc Tế (HD)",BBC Earth (HD 8Mbps)
+#EXTINF:-1 group-title="Quốc Tế (HD)",BBC Earth (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.2.24:30120
-#EXTINF:-1 tvg-name="Boomerang-ClipTV" group-title="Quốc Tế (HD)",BOOMERANG (HD 8Mbps)
+#EXTINF:-1 group-title="Quốc Tế (HD)",BOOMERANG (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.138:30120
-#EXTINF:-1 tvg-name="Blue Ant Entertainment" group-title="Quốc Tế (HD)",BLUE ANT ENTERTAINMENT (HD 8Mbps)
+#EXTINF:-1 group-title="Quốc Tế (HD)",BLUE ANT ENTERTAINMENT (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.203:30120
-#EXTINF:-1 tvg-name="Blue Ant Extreme" group-title="Quốc Tế (HD)",BLUE ANT EXTREME (HD 8Mbps)
+#EXTINF:-1 group-title="Quốc Tế (HD)",BLUE ANT EXTREME (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.204:30120
-#EXTINF:-1 tvg-name="Cartoon Network" group-title="Quốc Tế (HD)",CARTOON NETWORK (HD 8Mbps)
+#EXTINF:-1 group-title="Quốc Tế (HD)",CARTOON NETWORK (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.2.231:30120
-#EXTINF:-1 tvg-name="Channel V HD-ClipTV" group-title="Quốc Tế (HD)",[V] HD (HD 8Mbps)
+#EXTINF:-1 group-title="Quốc Tế (HD)",[V] HD (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.188:30120
-#EXTINF:-1 tvg-name="CINEMA WORLD" group-title="Quốc Tế (HD)",Cinema World (HD 8Mbps)
+#EXTINF:-1 group-title="Quốc Tế (HD)",Cinema World (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.142:30120
-#EXTINF:-1 tvg-name="Max by HBO" group-title="Quốc Tế (HD)",CINEMAX (HD 8Mbps)
+#EXTINF:-1 group-title="Quốc Tế (HD)",CINEMAX (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.2.86:30120
-#EXTINF:-1 group-title="Quốc Tế (HD)",DREAMWORKS (HD 8Mbps)
-udp://@225.1.1.136:30120
-#EXTINF:-1 tvg-name="Da Vinci" group-title="Quốc Tế (HD)",Da Vinci (HD 8Mbps)
+#EXTINF:-1 group-title="Quốc Tế (HD)",Da Vinci (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.197:30120
-#EXTINF:-1 tvg-name="Discovery Asia-ClipTV" group-title="Quốc Tế (HD)",Discovery Asia (HD 8Mbps)
+#EXTINF:-1 group-title="Quốc Tế (HD)",Discovery Asia (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.2.223:30120
-#EXTINF:-1 tvg-name="Discovery Channel-ClipTV" group-title="Quốc Tế (HD)",Discovery Channel (HD 8Mbps)
+#EXTINF:-1 group-title="Quốc Tế (HD)",Discovery Channel (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.238:30120
-#EXTINF:-1 tvg-name="Disney" group-title="Quốc Tế (HD)",Disney Channel (HD 8Mbps)
+#EXTINF:-1 group-title="Quốc Tế (HD)",Disney Channel (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.2.158:30120
-#EXTINF:-1 tvg-name="Disney Junior" group-title="Quốc Tế (HD)",Disney Junior (HD 8Mbps)
+#EXTINF:-1 group-title="Quốc Tế (HD)",Disney Junior (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+udp://@225.1.1.110:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",Disney Junior (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.233:30120
-#EXTINF:-1 tvg-name="DW-ClipTV" group-title="Quốc Tế (HD)",DW (HD 8Mbps)
+#EXTINF:-1 group-title="Quốc Tế (HD)",Dreamworks (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+udp://@225.1.1.136:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",DW (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.46:30120
-#EXTINF:-1 tvg-name="" group-title="Quốc Tế (HD)",FX (HD 8Mbps)
-udp://@225.1.1.213:30120
-#EXTINF:-1 tvg-name="Fashion TV HD" group-title="Quốc Tế (HD)",Fashion TV (HD 8Mbps)
+#EXTINF:-1 group-title="Quốc Tế (HD)",Fashion TV (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.2.227:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)",Fashion TV 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.2.232:30120
 #EXTINF:-1 group-title="Quốc Tế (HD)",Fashion TV 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.2.234:30120
-#EXTINF:-1 tvg-name="Fox HD-ClipTV" group-title="Quốc Tế (HD)",FOX HD (HD 8Mbps)
+#EXTINF:-1 group-title="Quốc Tế (HD)",FOX HD (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.51:30120
-#EXTINF:-1 tvg-name="Fox Life HD-ClipTV" group-title="Quốc Tế (HD)",FOX life (HD 8Mbps)
-udp://@225.1.2.237:30120
-#EXTINF:-1 tvg-name="" group-title="Quốc Tế (HD)",FOX FAMILY MOVIES (HD 8Mbps)
+#EXTINF:-1 group-title="Quốc Tế (HD)",Fox Family Movies (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.140:30120
-#EXTINF:-1 tvg-name="Fox Movies HD-ClipTV" group-title="Quốc Tế (HD)",FOX MOVIES (HD 8Mbps)
+#EXTINF:-1 group-title="Quốc Tế (HD)",FOX Life (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+udp://@225.1.2.237:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",FOX MOVIES (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.2.239:30120
-#EXTINF:-1 tvg-name="FOX SPORTS-ClipTV" group-title="Quốc Tế (HD)",FOX SPORTS (HD 8Mbps)
+#EXTINF:-1 group-title="Quốc Tế (HD)",FOX SPORTS (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.2.229:30120
-#EXTINF:-1 tvg-name="FOX SPORTS 2-ClipTV" group-title="Quốc Tế (HD)",FOX SPORTS 2 (HD 8Mbps)
+#EXTINF:-1 group-title="Quốc Tế (HD)",FOX SPORTS 2 (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.141:30120
-#EXTINF:-1 tvg-name="FOX SPORTS 3-ClipTV" group-title="Quốc Tế (HD)",FOX SPORTS 3 (HD 8Mbps)
+#EXTINF:-1 group-title="Quốc Tế (HD)",FOX SPORTS 3 (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.2.242:30120
-#EXTINF:-1 tvg-name="HBO" group-title="Quốc Tế (HD)",HBO (HD 8Mbps)
+#EXTINF:-1 group-title="Quốc Tế (HD)",FX (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+udp://@225.1.1.213:30120
+#EXTINF:-1 group-title="Quốc Tế (HD)",HBO (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.2.233:30120
-#EXTINF:-1 tvg-name="HBO" group-title="Quốc Tế (HD)",HBO (HD 12Mbps)
+#EXTINF:-1 group-title="Quốc Tế (HD)",HBO (HD 12Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.4.90:30120
-#EXTINF:-1 tvg-name="KIX" group-title="Quốc Tế (HD)",KIX (HD 8Mbps)
+#EXTINF:-1 group-title="Quốc Tế (HD)",KBS WORLD HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://live-vthcm.vieon.vn/htv_drm/live/kbs_world/TV_HD/kbs_world_1080p/chunks.m3u8
+#EXTINF:-1 group-title="Quốc Tế (HD)",KIX (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.2.144:30120
-#EXTINF:-1 tvg-name="National Geographic HD-ClipTV" group-title="Quốc Tế (HD)",NATIONAL GEOGRAPHIC HD (HD 8Mbps)
+#EXTINF:-1 group-title="Quốc Tế (HD)",NATIONAL GEOGRAPHIC HD (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.2.235:30120
-#EXTINF:-1 tvg-name="Nat Geo Wild HD-ClipTV" group-title="Quốc Tế (HD)" tvg-logo="",NATIONAL GEOGRAPHIC WILD (HD 8Mbps)
+#EXTINF:-1 group-title="Quốc Tế (HD)",NAT GEO WILD (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.211:30120
-#EXTINF:-1 tvg-name="NHK World-Japan(HD)" group-title="Quốc Tế (HD)",NHK WORLD JAPAN (HD 8Mbps)
+#EXTINF:-1 group-title="Quốc Tế (HD)",NHK WORLD JAPAN (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.47:30120
-#EXTINF:-1 tvg-name="Outdoor Channel (HD)" group-title="Quốc Tế (HD)",Outdoor Channel (HD 8Mbps)
+#EXTINF:-1 group-title="Quốc Tế (HD)",Outdoor Channel (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.2.215:30120
-#EXTINF:-1 tvg-name="RED BY HBO" group-title="Quốc Tế (HD)",RED BY HBO (HD 8Mbps)
+#EXTINF:-1 group-title="Quốc Tế (HD)",RED BY HBO (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.93:30120
-#EXTINF:-1 tvg-name="Travel & Living (TLC)" group-title="Quốc Tế (HD)",TLC (HD 8Mbps)
+#EXTINF:-1 group-title="Quốc Tế (HD)",TLC (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.236:30120
-#EXTINF:-1 tvg-name="WARNER TV" group-title="Quốc Tế (HD)",WBTV (HD 8Mbps)
+#EXTINF:-1 group-title="Quốc Tế (HD)",WBTV (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.139:30120
-#EXTINF:-1 tvg-name="Channel V HD-ClipTV" group-title="Quốc Tế (HD)",[V] HD (HD 4Mbps)
+#EXTINF:-1 group-title="Quốc Tế (HD)",[V] HD (HD 4Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.4.30:30120
-#EXTINF:-1 tvg-name="Da Vinci" group-title="Quốc Tế (HD)",Da Vinci (HD 4Mbps)
+#EXTINF:-1 group-title="Quốc Tế (HD)",Da Vinci (HD 4Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.4.38:30120
-#EXTINF:-1 tvg-name="Fox Life HD-ClipTV" group-title="Quốc Tế (HD)",FOX life (HD 8Mbps)
+#EXTINF:-1 group-title="Quốc Tế (HD)",FOX life (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.4.32:30120
-#EXTINF:-1 tvg-name="National Geographic HD-ClipTV" group-title="Quốc Tế (HD)",NATIONAL GEOGRAPHIC HD (HD 8Mbps)
+#EXTINF:-1 group-title="Quốc Tế (HD)",NATIONAL GEOGRAPHIC HD (HD 8Mbps)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.4.31:30120
 #-------------------Quốc tế SD-------------------#
-#EXTINF:-1 tvg-name="Arirang" group-title="Quốc Tế (SD)",Arirang
+#EXTINF:-1 group-title="Quốc Tế (SD)",Arirang
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.201:30120
-#EXTINF:-1 tvg-name="ABC AUSTRALIA" group-title="Quốc Tế (SD)",ABC AUSTRALIA
+#EXTINF:-1 group-title="Quốc Tế (SD)",ABC AUSTRALIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.2.21:30120
 #EXTINF:-1 group-title="Quốc Tế (SD)",Baby First
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.137:30120
-#EXTINF:-1 tvg-name="BBC LIFESTYLE" group-title="Quốc Tế (SD)",BBC Lifestyle
+#EXTINF:-1 group-title="Quốc Tế (SD)",BBC Lifestyle
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.2.52:30120
-#EXTINF:-1 tvg-name="BBC WORLD NEWS" group-title="Quốc Tế (SD)",BBC WORLD NEWS
+#EXTINF:-1 group-title="Quốc Tế (SD)",BBC WORLD NEWS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.2.74:30120
-#EXTINF:-1 tvg-name="Channel News Asia" group-title="Quốc Tế (SD)",CNA
+#EXTINF:-1 group-title="Quốc Tế (SD)",CNA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.202:30120
 #EXTINF:-1 group-title="Quốc Tế (SD)",CNBC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.227:30120
-#EXTINF:-1 tvg-name="CNN-ClipTV" group-title="Quốc Tế (SD)",CNN
+#EXTINF:-1 group-title="Quốc Tế (SD)",CNN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.242:30120
-#EXTINF:-1 tvg-name="France 24 English-ClipTV" group-title="Quốc Tế (SD)",FRANCE 24 (English)
+#EXTINF:-1 group-title="Quốc Tế (SD)",EURONEWS [RUS]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist_2m.m3u8
+#EXTINF:-1 group-title="Quốc Tế (SD)",FRANCE 24 (English)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.2.211:30120
-#EXTINF:-1 tvg-name="KBS World" group-title="Quốc Tế (SD)",KBS WORLD
+#EXTINF:-1 group-title="Quốc Tế (SD)",KBS WORLD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.196:30120
-#EXTINF:-1 tvg-name="TV5 Asie" group-title="Quốc Tế (SD)",TV5 MONDE ASIE
+#EXTINF:-1 group-title="Quốc Tế (SD)",TV5 MONDE ASIE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.200:30120
-#EXTINF:-1 tvg-name="Первый Канал СНГ" group-title="Quốc Tế (SD)",Первый Канал СНГ [+3]
-udp://@225.1.1.7:30120
+#-------------------Tiếng Nga/Kazakh-------------------#
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",Первый канал [360p]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn1.mobiletv.bg/T5/perviy_kanal/perviy_kanal_794613_850k.m3u8
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",Первый канал [576p]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://51.68.141.106:8081/tv/pervyiy-kanal/playlist.m3u8
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",Первый канал HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mfe.cliptv.az/dash/Perviy_Kanal_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",Первый канал Евразия
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://89.106.234.3:80/1KanalEvraziya_34_35.m3u8
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",Первый канал Евразия [S2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://stream.euroasia.lfstrm.tv/perviy_evrasia/1/index.m3u8
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",Первый канал Евразия [S3]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://sc.id-tv.kz/1KanalEvraziya_38_39.m3u8
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",Россия 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rhd.smil/chunklist_b1800000.m3u8
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",Россия 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",Матч!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://95-213-224-188.livesports24.online/ooomatch.m3u8
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",Матч! HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mfe.cliptv.az/dash/Match_HD.ism/playlist.mpd
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",НТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/ntv/playlist.m3u8
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",НТВ (International)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://89.106.234.3:80/NTV_34_35.m3u8
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",Пятый канал (International)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mfe.cliptv.az/dash/5_Kanal_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",Россия K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_k/playlist_3.m3u8
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",Россия 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",Россия PTP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",ТВЦ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://ad-hls-tvc.cdnvideo.ru/tvc-p222/smil:tvc.smil/chunklist_b1682100.m3u8
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",РЕН ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",РЕН ТВ (International)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://89.106.234.3:80/RenTV_34_35.m3u8
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",СПАС
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",СТС
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/sts/playlist.m3u8
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",СТС (International)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://89.106.234.3:80/STS_34_35.m3u8
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",Домашний
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/dom/playlist.m3u8
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",Домашний (International)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mfe.cliptv.az/dash/Domashniy_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",ТВ-3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/tv3/playlist.m3u8
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",Пятница!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mfe.cliptv.az/dash/Pyatnica_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",Пятница! (International)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://89.106.234.3:80/friday_34_35.m3u8
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",Звезда
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",Звезда HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",МИР (Казахстан)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://sc.id-tv.kz/Mir_38_39.m3u8
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",МИР (Казахстан) [S2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://89.106.234.3:80/Mir_34_35.m3u8
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",МИР HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",ТНТ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://bar-timeshift-inet.ll-bar.zsttk.ru:8080/tnt/playlist.m3u8
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",МУЗ ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mfe.cliptv.az/dash/Muz_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",Че!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mfe.cliptv.az/dash/Ce_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",СТС Love
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mfe.cliptv.az/dash/STS_Love_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",ТНТ4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://89.106.234.3:80/tnt4_34_35.m3u8
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",2x2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mfe.cliptv.az/dash/2x2_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",Ю
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://hlstv.brn.211.ru/239.211.211.29/stream.m3u8
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",RU.TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://rut-v.gcdn.co/streams/1410_1323/360n/index.m3u8
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",RU.TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",РБК
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",РБК (Казахстан)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://89.106.234.3:80/RBK_34_35.m3u8
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",Известия
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",Известия HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",МИР 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://mfe.cliptv.az/dash/MIR24_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",МИР 24 (Казахстан)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://89.106.234.3:80/Mir24_34_35.m3u8
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",МИР 24 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",МИР PREMIUM HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",Красная линия
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/playlist.m3u8
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",ЛДПР ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://46.46.143.222:1935/live/mp4:ldpr.stream_480p/playlist.m3u8
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",ЛДПР ТВ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://46.46.143.222:1935/live/mp4:ldpr.stream_720p/playlist.m3u8
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",Моя планета
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",Москва 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:m24.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",Хабар 24 (Казахстан)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://sc.id-tv.kz/Khabar_24_34_35.m3u8
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",Хабар 24 (Казахстан) [S2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://89.106.234.3:80/Khabar_24_34_35.m3u8
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",Хабар 24 HD (Казахстан)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://live-24kz.cdnvideo.ru/24kz/24kz.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",Ел Арна (Казахстан)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://sc.id-tv.kz/ElArna_38_39.m3u8
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",Ел Арна (Казахстан) [S2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://89.106.234.3:80/ElArna_34_35.m3u8
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",Astana TV (Казахстан)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://sc.id-tv.kz/Astana_38_39.m3u8
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",Astana TV (Казахстан) [S2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://89.106.234.3:80/Astana_34_35.m3u8
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",КТК (Казахстан)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://89.106.234.3:80/KTK_34_35.m3u8
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",7 канал (Казахстан)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://sc.id-tv.kz/7_kanal_38_39.m3u8
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",7 канал (Казахстан) [S2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://sc.id-tv.kz/7_kanal_34_35.m3u8
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",7 канал (Казахстан) [S3]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://89.106.234.3:80/7_kanal_34_35.m3u8
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",31 канал (Казахстан)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://sc.id-tv.kz/31Kanal_38_39.m3u8
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",31 канал (Казахстан) [S2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://89.106.234.3:80/31Kanal_34_35.m3u8
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",СТВ (Казахстан)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://sc.id-tv.kz/STV_38_39.m3u8
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",СТВ (Казахстан) [S2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://sc.id-tv.kz/STV_34_35.m3u8
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",СТВ (Казахстан) [S3]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://89.106.234.3:80/STV_34_35.m3u8
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",Almaty TV (Казахстан)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://sc.id-tv.kz/Almaty_38_39.m3u8
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",Almaty TV (Казахстан) [S2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://sc.id-tv.kz/Almaty_36_37.m3u8
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",Almaty TV (Казахстан) [S3]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://89.106.234.3:80/Almaty_34_35.m3u8
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",Almaty TV HD (Казахстан)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://live-almatytv.cdnvideo.ru/almatytv/almatytv.sdp/chunklist.m3u8
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",Новое Телевидение (Казахстан)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://sc.id-tv.kz/New_Television_38_39.m3u8
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",Новое Телевидение (Казахстан) [S2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://sc.id-tv.kz/New_Television_34_35.m3u8
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",Новое Телевидение (Казахстан) [S3]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",Новое Телевидение (Казахстан) [S4]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://89.106.234.3:80/New_Television_34_35.m3u8
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",Твое ТВ (Казахстан)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://89.106.234.3:80/TvoeTV_34_35.m3u8
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",ТДК-42 (Казахстан)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://89.106.234.3:80/TDK-42_34_35.m3u8
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",Atameken Business (Казахстан)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://sc.id-tv.kz/Atameken_38_39.m3u8
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",Atameken Business (Казахстан) [S2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://89.106.234.3:80/Atameken_34_35.m3u8
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",Atameken Business HD (Казахстан)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://live-atameken.cdnvideo.ru/atameken/atameken_hq.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",BEZ (Казахстан)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://dmitry-tv.my1.ru/his/02/CH_BEZ_KZHTN.m3u8
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",Kazakh TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://89.106.234.3:80/KazakhTV_34_35.m3u8
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",Асыл Арна (Казахстан)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://sc.id-tv.kz/AsylArna_38_39.m3u8
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",Асыл Арна (Казахстан) [S2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://89.106.234.3:80/AsylArna_34_35.m3u8
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",ID Fashion (Казахстан)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://sc.id-tv.kz/IDFashion.m3u8
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",ID Fashion (Казахстан) [S2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://89.106.234.3:80/IDFashion_34_35.m3u8
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",Dombyra TV (Казахстан)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://sc.id-tv.kz/Dombyra_38_39.m3u8
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",Dombyra TV (Казахстан) [S2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+http://89.106.234.3:80/Dombyra_34_35.m3u8
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",Caspian News (Казахстан)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://sc.id-tv.kz/CaspianNews_36_37.m3u8
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",МТРК (Казахстан)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://tvcdn01.oktv.kz/tv/mtrk/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",Hit TV (Казахстан)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://sc.id-tv.kz/HitTV_36_37.m3u8
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",Алау ТВ (Казахстан)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+rtmp://109.248.236.42:1935/live/Alau
+#EXTINF:-1 group-title="Tiếng Nga/Kazakh",КСК ТВ (Казахстан)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+rtmp://109.248.236.42:1935/live/KSK-TV
 #-------------------FPT Play-------------------#
-#EXTINF:-1 tvg-name="VTV1-VTV" group-title="FPT Play",VTV1 HD
+#EXTINF:-1 group-title="FPT Play",VTV1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.4.1:30120
-#EXTINF:-1 tvg-name="VTV5-VTV" group-title="FPT Play",VTV5 HD
+#EXTINF:-1 group-title="FPT Play",VTV5 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.4.5:30120
-#EXTINF:-1 tvg-name="VTV8-VTV" group-title="FPT Play",VTV8 HD
+#EXTINF:-1 group-title="FPT Play",VTV8 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.4.7:30120
-#EXTINF:-1 tvg-name="VTV9-VTV" group-title="FPT Play",VTV9 HD
+#EXTINF:-1 group-title="FPT Play",VTV9 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.4.8:30120
-#EXTINF:-1 tvg-name="VTC2-ClipTV" group-title="FPT Play",VTC2
+#EXTINF:-1 group-title="FPT Play",VTC2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.4.41:30120
-#EXTINF:-1 tvg-name="YEAH1 FAMILY VTC4" group-title="FPT Play",VTC4 HD
+#EXTINF:-1 group-title="FPT Play",VTC4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.4.43:30120
-#EXTINF:-1 tvg-name="VTC5-ClipTV" group-title="FPT Play",VTC5
+#EXTINF:-1 group-title="FPT Play",VTC5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.4.44:30120
-#EXTINF:-1 tvg-name="VTC6-ClipTV" group-title="FPT Play",VTC6
+#EXTINF:-1 group-title="FPT Play",VTC6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.4.45:30120
-#EXTINF:-1 tvg-name="TODAYTV" group-title="FPT Play",VTC7
+#EXTINF:-1 group-title="FPT Play",VTC7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.4.46:30120
-#EXTINF:-1 tvg-name="VTC8 HD" group-title="FPT Play",VTC8
+#EXTINF:-1 group-title="FPT Play",VTC8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.4.47:30120
-#EXTINF:-1 tvg-name="VTC9 Let's Viet" group-title="FPT Play",VTC9
+#EXTINF:-1 group-title="FPT Play",VTC9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.4.48:30120
-#EXTINF:-1 tvg-name="VTC10-ClipTV" group-title="FPT Play",VTC10
+#EXTINF:-1 group-title="FPT Play",VTC10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.4.49:30120
-#EXTINF:-1 tvg-name="VTC11 THIEU NHI" group-title="FPT Play",VTC11
+#EXTINF:-1 group-title="FPT Play",VTC11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.4.50:30120
-#EXTINF:-1 tvg-name="VTC14-ClipTV" group-title="FPT Play",VTC14 HD
+#EXTINF:-1 group-title="FPT Play",VTC14 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.4.53:30120
-#EXTINF:-1 tvg-name="VTC16-ClipTV" group-title="FPT Play",VTC16 HD
+#EXTINF:-1 group-title="FPT Play",VTC16 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.4.54:30120
-#EXTINF:-1 tvg-name="HTV1" group-title="FPT Play",HTV1
+#EXTINF:-1 group-title="FPT Play",HTV1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.4.55:30120
-#EXTINF:-1 tvg-name="HTV2-ClipTV" group-title="FPT Play",HTV2 Vie Channel HD
+#EXTINF:-1 group-title="FPT Play",HTV2 Vie Channel HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.4.56:30120
-#EXTINF:-1 tvg-name="HTV3-ClipTV" group-title="FPT Play",HTV3 Dreams TV
+#EXTINF:-1 group-title="FPT Play",HTV3 Dreams TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.4.57:30120
-#EXTINF:-1 tvg-name="HTV4" group-title="FPT Play",HTV Keys
+#EXTINF:-1 group-title="FPT Play",HTV Keys
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.4.58:30120
-#EXTINF:-1 tvg-name="HTV THE THAO" group-title="FPT Play",HTV THỂ THAO
+#EXTINF:-1 group-title="FPT Play",HTV THỂ THAO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.4.60:30120
-#EXTINF:-1 tvg-name="HTVC DU LICH CUOC SONG" group-title="FPT Play",HTVC Du Lịch và Cuộc Sống
+#EXTINF:-1 group-title="FPT Play",HTVC Du Lịch và Cuộc Sống
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.4.67:30120
-#EXTINF:-1 tvg-name="FBNC" group-title="FPT Play",FBNC
+#EXTINF:-1 group-title="FPT Play",FBNC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.4.88:30120
-#EXTINF:-1 tvg-name="FBNC" group-title="FPT Play",FBNC HD
+#EXTINF:-1 group-title="FPT Play",FBNC HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.4.70:30120
 #EXTINF:-1 group-title="FPT Play",HTVC Ca Nhạc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.4.92:30120
-#EXTINF:-1 tvg-name="HTVC GIA DINH" group-title="FPT Play",HTVC Gia Đình
+#EXTINF:-1 group-title="FPT Play",HTVC Gia Đình
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.4.64:30120
-#EXTINF:-1 tvg-name="HTVC Phim" group-title="FPT Play",HTVC Phim HD
+#EXTINF:-1 group-title="FPT Play",HTVC Phim HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.4.63:30120
-#EXTINF:-1 tvg-name="HTVC PHU NU HD" group-title="FPT Play",HTVC Phụ Nữ
+#EXTINF:-1 group-title="FPT Play",HTVC Phụ Nữ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.4.66:30120
-#EXTINF:-1 tvg-name="HTVC Thuần Việt" group-title="FPT Play",HTVC Thuần Việt
+#EXTINF:-1 group-title="FPT Play",HTVC Thuần Việt
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.4.61:30120
-#EXTINF:-1 tvg-name="HTVC THUAN VIET HD" group-title="FPT Play",Thuần Việt HD
+#EXTINF:-1 group-title="FPT Play",Thuần Việt HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.4.62:30120
 #EXTINF:-1 group-title="FPT Play",HTVC+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.4.91:30120
 #EXTINF:-1 group-title="FPT Play",BTV10 NCM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.4.83:30120
-#EXTINF:-1 tvg-name="TH QUANG NINH 3" group-title="FPT Play",QTV3 _ TH Quảng Ninh
+#EXTINF:-1 group-title="FPT Play",QTV3 _ TH Quảng Ninh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.4.86:30120
 #EXTINF:-1 group-title="FPT Play",BPTV2 _ HOME tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.4.80:30120
-#EXTINF:-1 tvg-name="TH BINH DUONG 2" group-title="FPT Play",BTV2 HD _ TH Bình Dương
+#EXTINF:-1 group-title="FPT Play",BTV2 HD _ TH Bình Dương
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.4.81:30120
-#EXTINF:-1 tvg-name="IMOVIE HD" group-title="FPT Play",BTV4 HD _ TH Bình Dương
+#EXTINF:-1 group-title="FPT Play",BTV4 HD _ TH Bình Dương
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.4.82:30120
 #EXTINF:-1 group-title="FPT Play",BTV6 _ TH Bình Dương
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.4.78:30120
-#EXTINF:-1 tvg-name="TH DONG NAI 2" group-title="FPT Play",ĐNRTV2 HD _ TH Đồng Nai
+#EXTINF:-1 group-title="FPT Play",ĐNRTV2 HD _ TH Đồng Nai
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.4.85:30120
-#EXTINF:-1 tvg-name="VinhLongTV2" group-title="FPT Play",THVL2 HD _ TH Vĩnh Long
+#EXTINF:-1 group-title="FPT Play",THVL2 HD _ TH Vĩnh Long
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.4.87:30120
-#EXTINF:-1 tvg-name="ABC AUSTRALIA" group-title="FPT Play",ABC AUSTRALIA
+#EXTINF:-1 group-title="FPT Play",ABC AUSTRALIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.4.19:30120
-#EXTINF:-1 tvg-name="Asian Food Channel" group-title="FPT Play",Asian Food Network HD
+#EXTINF:-1 group-title="FPT Play",Asian Food Network HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.4.36:30120
-#EXTINF:-1 tvg-name="Animal Planet" group-title="FPT Play",Animal Planet HD
+#EXTINF:-1 group-title="FPT Play",Animal Planet HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.4.27:30120
-#EXTINF:-1 tvg-name="Arirang" group-title="FPT Play",arirang KOREA
+#EXTINF:-1 group-title="FPT Play",arirang KOREA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.4.74:30120
-#EXTINF:-1 tvg-name="AXN-ClipTV" group-title="FPT Play",AXN HD
+#EXTINF:-1 group-title="FPT Play",AXN HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.4.9:30120
 #EXTINF:-1 group-title="FPT Play",Baby First HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.4.28:30120
 #EXTINF:-1 group-title="FPT Play",Baby TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.4.35:30120
-#EXTINF:-1 tvg-name="BBC EARTH" group-title="FPT Play",BBC earth HD
+#EXTINF:-1 group-title="FPT Play",BBC earth HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.4.21:30120
-#EXTINF:-1 tvg-name="BBC LIFESTYLE" group-title="FPT Play",BBC lifestyle
+#EXTINF:-1 group-title="FPT Play",BBC lifestyle
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.4.23:30120
-#EXTINF:-1 tvg-name="BBC WORLD NEWS" group-title="FPT Play",BBC WORLD NEWS
+#EXTINF:-1 group-title="FPT Play",BBC WORLD NEWS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.4.22:30120
-#EXTINF:-1 tvg-name="BLOOMBERG" group-title="FPT Play",BLOOMBERG
+#EXTINF:-1 group-title="FPT Play",BLOOMBERG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.4.18:30120
-#EXTINF:-1 tvg-name="Boomerang-ClipTV" group-title="FPT Play",BOOMERANG
+#EXTINF:-1 group-title="FPT Play",BOOMERANG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.4.16:30120
-#EXTINF:-1 tvg-name="CARTOON NETWORK" group-title="FPT Play",CARTOON NETWORK HD
+#EXTINF:-1 group-title="FPT Play",CARTOON NETWORK HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.4.13:30120
-#EXTINF:-1 tvg-name="Channel News Asia" group-title="FPT Play",cna
+#EXTINF:-1 group-title="FPT Play",cna
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.4.76:30120
-#EXTINF:-1 tvg-name="CINEMA WORLD" group-title="FPT Play",Cinema World HD
+#EXTINF:-1 group-title="FPT Play",Cinema World HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.4.15:30120
-#EXTINF:-1 tvg-name="CNN-ClipTV" group-title="FPT Play",CNN
+#EXTINF:-1 group-title="FPT Play",CNN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.4.17:30120
-#EXTINF:-1 tvg-name="Discovery Asia-ClipTV" group-title="FPT Play",Discovery Asia HD
+#EXTINF:-1 group-title="FPT Play",Discovery Asia HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.4.25:30120
-#EXTINF:-1 tvg-name="Discovery Channel-ClipTV" group-title="FPT Play",Discovery Channel HD
+#EXTINF:-1 group-title="FPT Play",Discovery Channel HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.4.24:30120
-#EXTINF:-1 tvg-name="DW-ClipTV" group-title="FPT Play",DW HD
+#EXTINF:-1 group-title="FPT Play",DW HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.4.75:30120
-#EXTINF:-1 tvg-name="FASHION TV" group-title="FPT Play",FASHION TV HD
+#EXTINF:-1 group-title="FPT Play",FASHION TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.4.20:30120
-#EXTINF:-1 tvg-name="Fox HD-ClipTV" group-title="FPT Play",FOX HD
+#EXTINF:-1 group-title="FPT Play",FOX HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.4.33:30120
-#EXTINF:-1 tvg-name="Fox Movies HD-ClipTV" group-title="FPT Play",FOX MOVIES HD
+#EXTINF:-1 group-title="FPT Play",FOX MOVIES HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.4.34:30120
-#EXTINF:-1 tvg-name="FOX SPORTS-ClipTV" group-title="FPT Play",FOX SPORTS HD
+#EXTINF:-1 group-title="FPT Play",FOX SPORTS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.4.10:30120
-#EXTINF:-1 tvg-name="FOX SPORTS 2-ClipTV" group-title="FPT Play",FOX SPORTS 2 HD
+#EXTINF:-1 group-title="FPT Play",FOX SPORTS 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.4.11:30120
-#EXTINF:-1 tvg-name="FOX SPORTS 3-ClipTV" group-title="FPT Play",FOX SPORTS 3 HD
+#EXTINF:-1 group-title="FPT Play",FOX SPORTS 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.4.12:30120
-#EXTINF:-1 tvg-name="France 24 English-ClipTV" group-title="FPT Play",FRANCE 24
+#EXTINF:-1 group-title="FPT Play",FRANCE 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.4.71:30120
-#EXTINF:-1 tvg-name="KBS World" group-title="FPT Play",KBS WORLD
+#EXTINF:-1 group-title="FPT Play",KBS WORLD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.4.69:30120
-#EXTINF:-1 tvg-name="KIX" group-title="FPT Play",KIX HD
+#EXTINF:-1 group-title="FPT Play",KIX HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.4.40:30120
-#EXTINF:-1 tvg-name="NHK World-Japan(HD)" group-title="FPT Play",NHK WORLD JAPAN HD
+#EXTINF:-1 group-title="FPT Play",NHK WORLD JAPAN HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.4.73:30120
-#EXTINF:-1 tvg-name="OutdoorChannel" group-title="FPT Play",Outdoor Channel HD
+#EXTINF:-1 group-title="FPT Play",Outdoor Channel HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.4.37:30120
-#EXTINF:-1 tvg-name="Travel & Living (TLC)" group-title="FPT Play",TLC HD
+#EXTINF:-1 group-title="FPT Play",TLC HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.4.26:30120
-#EXTINF:-1 tvg-name="TV5 Asie" group-title="FPT Play",TV5 MONDE ASIE
+#EXTINF:-1 group-title="FPT Play",TV5 MONDE ASIE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.4.72:30120
-#EXTINF:-1 tvg-name="WARNER TV" group-title="FPT Play",WBTV HD
+#EXTINF:-1 group-title="FPT Play",WBTV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.4.14:30120
 #-------------------FPT Service-------------------#
 #EXTINF:-1 group-title="FPT Service",Dolife Hospital
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.127:30120
 #EXTINF:-1 group-title="FPT Service",Grand Phoenix Hotel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.66:30120
 #EXTINF:-1 group-title="FPT Service",The Mira Hotel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.123:30120
 #EXTINF:-1 group-title="FPT Service",The Ocean Resort
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.121:30120
 #EXTINF:-1 group-title="FPT Service",FPT Giới Thiệu Chương Trình
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.2:30120
 #EXTINF:-1 group-title="FPT Service",Chơi Hay Chia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.26:30120
 #-------------------Mua sắm-------------------#
-#EXTINF:-1 group-title="Mua Sắm",VTVCab11 VGS SHOP
+#EXTINF:-1 group-title="Mua Sắm",VTVCab11 GS SHOP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.2.167:30120
 #EXTINF:-1 group-title="Mua Sắm",VTVCab13 VTV Hyundai Homeshopping
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.122:30120
 #EXTINF:-1 group-title="Mua Sắm",VTVCab13 VTV Hyundai Homeshopping
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.4.79:30120
 #EXTINF:-1 group-title="Mua Sắm",SCTV10 VTV Hyundai Homeshopping
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.2.37:30120
-#EXTINF:-1 tvg-name="HTV COOP" group-title="Mua Sắm",HTV Coop
-udp://@225.1.1.210:30120
-#EXTINF:-1 tvg-name="HTV COOP" group-title="Mua Sắm",HTV Coop
-udp://@225.1.4.68:30120
 #EXTINF:-1 group-title="Mua Sắm",HTVC VGS SHOP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.172:30120
 #EXTINF:-1 group-title="Mua Sắm",HTVC VGS SHOP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.4.89:30120
 #EXTINF:-1 group-title="Mua Sắm",BTV6 Quê Hương Homeshopping
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.90:30120
 #EXTINF:-1 group-title="Mua Sắm",BTV11 TOP Home Shopping
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.224:30120
 #EXTINF:-1 group-title="Mua Sắm",BTV11 TOP Home Shopping
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.4.84:30120
 #-------------------K+-------------------#
-#EXTINF:-1 tvg-name="K+ 1 (HD)" group-title="K+",K+1 HD (DRM)
+#EXTINF:-1 group-title="K+",K+1 HD (DRM)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.5:30120
-#EXTINF:-1 tvg-name="K+ NS (HD)" group-title="K+",K+NS HD (DRM)
+#EXTINF:-1 group-title="K+",K+NS HD (DRM)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.6:30120
-#EXTINF:-1 tvg-name="K+ PM (HD)" group-title="K+",K+PM HD (DRM)
+#EXTINF:-1 group-title="K+",K+PM HD (DRM)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.73:30120
-#EXTINF:-1 tvg-name="K+ PC (HD)" group-title="K+",K+PC HD (DRM)
+#EXTINF:-1 group-title="K+",K+PC HD (DRM)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 udp://@225.1.1.77:30120
